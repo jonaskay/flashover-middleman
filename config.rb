@@ -2,6 +2,10 @@
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
 activate :livereload
+activate :blog do |blog|
+  blog.permalink = 'posts/{title}'
+  blog.layout = 'article_layout'
+end
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/
