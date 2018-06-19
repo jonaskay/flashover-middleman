@@ -1,12 +1,13 @@
 var gulp = require('gulp');
 var postcss = require('gulp-postcss');
-var postcssImport = require('postcss-import');
-var cssnext = require('postcss-cssnext');
-var cssnano = require('cssnano');
+var tailwindcss = require('tailwindcss');
 
 gulp.task('css', function() {
   return gulp.src('source/stylesheets/site.css')
-    .pipe(postcss([postcssImport(), cssnext(), cssnano({preset: 'default'})]))
+    .pipe(postcss([
+      tailwindcss('./tailwind.js'),
+      require('autoprefixer'),
+    ]))
     .pipe(gulp.dest('./.tmp/stylesheets'));
 });
 
