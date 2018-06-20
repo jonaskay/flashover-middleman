@@ -18,6 +18,7 @@
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || "Flashover" %></title>
+    <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 
     <%= tag :meta, property: 'og:title', content: current_page.data.title || "Flashover" %>
     <%= tag :meta, property: 'og:type', content: current_page.data.type || "website" %>
