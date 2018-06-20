@@ -17,7 +17,13 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "Middleman" %></title>
+    <title><%= current_page.data.title || "Flashover" %></title>
+
+    <%= tag :meta, property: 'og:title', content: current_page.data.title || "Flashover" %>
+    <%= tag :meta, property: 'og:type', content: current_page.data.type || "website" %>
+    <%= tag :meta, property: 'og:url', content: current_url(current_page.url) %>
+    <%= tag :meta, property: 'og:description', content: current_page.data.description %>
+
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
   </head>
