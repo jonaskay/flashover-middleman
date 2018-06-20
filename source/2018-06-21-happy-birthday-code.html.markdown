@@ -1,6 +1,8 @@
 ---
 
 title: Happy Birthday Code!
+description: Pretty much all the software ever written is just gone. Live fast and die young, dear code.
+type: article
 date: 2018-06-21 05:00 UTC
 tags:
 
