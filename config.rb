@@ -43,7 +43,11 @@ helpers do
   end
 
   def host_with_port
-    [config[:host], config[:port]].compact.join(':')
+    [config[:host], optional_port].compact.join(':')
+  end
+
+  def optional_port
+    config[:port] unless config[:port].to_i == 80
   end
 end
 
@@ -77,4 +81,5 @@ configure :build do
 
   set :protocol, 'http://'
   set :host, 'www.flashover.blog'
+  set :port, 80
 end
