@@ -35,7 +35,15 @@ page '/*.txt', layout: false
 
 helpers do
   def current_url(path)
-    "http://flashover.blog#{path}"
+    config[:protocol] + host_with_port + path
+  end
+
+  def image_url(source)
+    config[:protocol] + host_with_port + image_path(source)
+  end
+
+  def host_with_port
+    [config[:host], config[:port]].compact.join(':')
   end
 end
 
@@ -48,15 +56,14 @@ configure :development do
     command: 'gulp',
     source: '.tmp',
     latency: 1
+
+  set :protocol, 'http://'
+  set :host, 'localhost'
+  set :port, 4567
 end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
-
-# configure :build do
-#   activate :minify_css
-#   activate :minify_javascript
-# end
 
 configure :build do
   activate :external_pipeline,
@@ -67,4 +74,7 @@ configure :build do
 
   ignore 'stylesheets/components/*.css'
   ignore 'stylesheets/utilities/*.css'
+
+  set :protocol, 'http://'
+  set :host, 'www.flashover.blog'
 end

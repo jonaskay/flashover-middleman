@@ -24,6 +24,7 @@
     <%= tag :meta, property: 'og:type', content: current_page.data.type || "website" %>
     <%= tag :meta, property: 'og:url', content: current_url(current_page.url) %>
     <%= tag :meta, property: 'og:description', content: current_page.data.description %>
+    <%= tag :meta, property: 'og:image', content: image_url(current_page.data.image) %>
 
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
