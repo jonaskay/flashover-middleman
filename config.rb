@@ -3,9 +3,10 @@
 
 activate :livereload
 activate :blog do |blog|
-  blog.permalink = 'posts/{title}'
+  blog.permalink = 'posts/{title}.html'
   blog.layout = 'article_layout'
 end
+activate :directory_indexes
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/
