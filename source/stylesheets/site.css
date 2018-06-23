@@ -36,10 +36,18 @@
   * @import "components/forms";
   */
 
+.article {
+  margin-bottom: 8rem;
+}
+
 .article p {
   line-height: 1.75;
   margin-bottom: 1.25rem;
   margin-top: 1.25rem;
+}
+
+.article h3 {
+  margin-top: 2rem;
 }
 
 .article p a {
@@ -48,6 +56,10 @@
 
 .article p a:hover {
   @apply .underline;
+}
+
+.article img {
+  @apply .border .border-grey-light;
 }
 
  /**
