@@ -3,7 +3,12 @@
     <%= link_to article.title, article, class: 'no-underline text-black hover:underline' %>
   </h2>
   <%= article.body %>
-  <footer class="border-t-2 border-grey-darkest pt-2 mt-8 uppercase text-sm font-bold">
-    <%= article.date.strftime('%b %e, %Y') %>
+  <footer class="border-t-2 border-grey-darkest pt-2 mt-8 text-sm">
+    <span class="uppercase font-bold">
+      <%= article.date.strftime('%b %e, %Y') %>
+    </span>
+    <div class="float-right">
+      <%= link_to '@jonassskay', 'https://twitter.com/jonassskay', class: 'no-underline' %>
+    </div>
   </footer>
 </article>
