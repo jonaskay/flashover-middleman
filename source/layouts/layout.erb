@@ -29,17 +29,55 @@
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
   </head>
-  <body class="bg-grey-lightest p-4">
-    <div class="container mx-auto relative">
-      <header class="max-w-140 mx-auto mb-8 lg:max-w-sm lg:m-0 lg:absolute lg:pin-l lg:pin-t">
-        <h1 class="mb-2">
-          <%= link_to 'Flashover', '/', class: 'no-underline text-black' %>
-        </h1>
-        <%= link_to '@jonassskay', 'https://twitter.com/jonassskay', class: 'no-underline' %>
-      </header>
-      <main class="max-w-140 mx-auto py-2">
-        <%= yield %>
-      </main>
+  <body class="bg-grey-lightest">
+    <div class="p-4">
+      <div class="container mx-auto relative">
+        <header class="max-w-140 mx-auto mb-8 lg:max-w-sm lg:m-0 lg:absolute lg:pin-l lg:pin-t">
+          <h1 class="mb-2">
+            <%= link_to 'Flashover', '/', class: 'no-underline text-black' %>
+          </h1>
+          <%= link_to '@jonassskay', 'https://twitter.com/jonassskay', class: 'no-underline' %>
+        </header>
+        <main class="max-w-140 mx-auto py-2">
+          <%= yield %>
+        </main>
+      </div>
+    </div>
+    <div class="bg-grey-lighter px-4 py-8">
+      <div class="container mx-auto text-right">
+        <footer class="inline-block max-w-140 text-left py-6">
+          <p class="text-lg mb-4">
+            Flashover is a weekly blog about business, design, and code.
+          </p>
+          <div class="my-1"><strong>flashover</strong></div>
+          <div class="text-sm">
+            <em>noun</em>
+            <ol>
+              <li class="my-1">
+                a high-voltage electric short circuit made through the air between exposed conductors.
+              </li>
+              <li class="my-1">
+                an instance of a fire spreading very rapidly through the air because of intense heat.
+              </li>
+              <li class="my-1">
+                the moment a conversation becomes real and alive, which occurs when a spark of trust
+                shorts out the delicate circuits you keep insulated under layers of irony, momentarily
+                grounding the static emotional charge you’ve built up through decades of friction with
+                the world.
+              </li>
+            </ol>
+          </div>
+          <div class="mt-8 text-sm text-grey-darker">
+            <div class="mb-2">
+              Definition of flashover is provided by
+              <a href="http://www.dictionaryofobscuresorrows.com/">The Dictionary of Obscure Sorrows</a>
+            </div>
+            <div>
+              Emoji on this page is provided by <a href="https://www.emojione.com">EmojiOne</a>
+            </div>
+          </div>
+        </footer>
+      </div>
     </div>
   </body>
 </html>

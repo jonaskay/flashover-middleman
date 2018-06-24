@@ -37,7 +37,11 @@
   */
 
 .article {
-  margin-bottom: 8rem;
+  margin-bottom: 6rem;
+}
+
+.article:last-child {
+  margin-bottom: 4rem;
 }
 
 .article p {
