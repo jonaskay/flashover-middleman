@@ -1,7 +1,7 @@
 ---
 
-title: My New Crush is the Hill Chart
-description:
+title: My New Crush Is the Hill Chart
+description: Hill Chart is a Basecamp invention that let’s you have a 10,000-feet view of your project.
 image: my-new-crush-is-the-hill-chart.jpg
 type: article
 date: 2018-06-28 00:00 UTC
