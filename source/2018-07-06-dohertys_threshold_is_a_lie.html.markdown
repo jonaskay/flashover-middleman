@@ -17,7 +17,7 @@ The user has some kind of task they want to complete with the system in hand (fo
 
 The traditional way of thinking about these interactions is *a loop*. The user does an action, the system gives a response, and based on that action the user does the next action.
 
-In reality, we plan a lot more ahead as users. Often the user already has a sequence of actions in mind. We basically assume how a system will work and what is required from us. We don’t stop to think after every system response. Instead, we enter into a flow where we reflect less and do more. System responses assure us that we’re on the right path; they direct us in small ways; or they stop us when necessary.
+In reality, we plan a lot more ahead as users. Often the user already has a sequence of actions in mind. We basically assume how a system will work and what is required from us. We don’t stop to think after every system response. Instead, we enter into a flow where we reflect less and do more. System responses assure us that we’re on the right path. They direct us in small ways. Or they stop us when necessary.
 
 You can probably see how we interact faster with systems in this actions-as-sequences kind of way compared to the action-response-think loop.
 
