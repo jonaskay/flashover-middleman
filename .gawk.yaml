@@ -1,0 +1,24 @@
+weekly:
+  table:
+    name: Weekly sessions
+  request:
+    view_id: 177300991
+    date_ranges:
+      - start_date: 2018/01/01
+        end_date: 2019/01/01
+    dimensions:
+      - ga:week
+    metrics:
+      - ga:sessions
+pages:
+  table:
+    name: Page sessions
+  request:
+    view_id: 177300991
+    date_ranges:
+      - start_date: 2018/01/01
+        end_date: 2019/01/01
+    dimensions:
+      - ga:pagePath
+    metrics:
+      - ga:sessions
