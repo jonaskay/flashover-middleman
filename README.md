@@ -2,7 +2,7 @@
 
 ## About
 
-This is my personal blog. You can read the blog at <http://flashover.blog>.
+This is my personal blog. You can read it at <http://www.flashover.blog>.
 
 ## Getting Started
 
@@ -11,6 +11,7 @@ This is my personal blog. You can read the blog at <http://flashover.blog>.
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Bundler](http://bundler.io/)
 * [Node.js](https://nodejs.org/en/)
+* [Yarn](https://yarnpkg.com/lang/en/)
 * [gulp-cli](https://gulpjs.com/)
 
 ### Installation
@@ -31,8 +32,9 @@ $ yarn install
 
 To start the development server, run
 
-`bundle exec middleman server`
+    $ bundle exec middleman server
 
 To build the site, run
 
-`bundle exec middleman build`
+    $ bundle exec middleman build
+
