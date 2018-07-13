@@ -23,7 +23,7 @@ You can probably see how we interact faster with systems in this actions-as-sequ
 
 In 1979, IBM researchers Walter J. Doherty and Richard P. Kelisky suggested that increases in system response times disrupt our action plans. When the system response time increases, it breaks our flow and we get into the traditional loop where we actually reflect on the responses we get and question our planned action sequence. The rate of our clicks and taps start to slow down.
 
-On the internet, you might run into “Doherty’s Threshold”, named after the aforementioned IBM researcher. Doherty’s Threshold dictates that a user experience turns from painful to addictive after the system feedback time drops below 400ms. This magic number of “400ms” is bullshit. The number is probably invented by the writers of the TV show Halt and Catch Fire where the term was first introduced.
+On the internet, you might run into “Doherty’s Threshold”, named after the aforementioned IBM researcher. Doherty’s Threshold dictates that a user experience turns from painful to addictive after the system feedback time drops below 400ms. This magic number of “400ms” is BS. The number is probably invented by the writers of the TV show Halt and Catch Fire where the term was first introduced.
 
 What’s true is that we interact faster with systems that give us fast feedback. And remember, transition time is part of this experience of speed.
 
