@@ -36,8 +36,21 @@
   * @import "components/forms";
   */
 
+.hr {
+  @apply .border-grey-light;
+
+  margin-bottom: 3rem;
+  margin-top: -3rem;
+}
+
 .article {
   margin-bottom: 6rem;
+}
+
+@media (min-width: 576px) {
+  .article {
+    margin-bottom: 8rem;
+  }
 }
 
 .article:last-child {
@@ -62,7 +75,7 @@
   @apply .underline;
 }
 
-.article img {
+.article-body img {
   @apply .border .border-grey-light;
 }
 
@@ -90,6 +103,16 @@
   * @import "utilities/background-patterns";
   * @import "utilities/skew-transforms";
   */
+
+.ml-18 {
+  margin-left: 4.5rem;
+}
+
+@media (min-width: 576px) {
+  .sm\:ml-28 {
+    margin-left: 7rem;
+  }
+}
 
 .max-w-140 {
   max-width: 35rem;
