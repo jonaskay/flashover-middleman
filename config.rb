@@ -7,6 +7,7 @@ activate :blog do |blog|
   blog.layout = 'article_layout'
 end
 activate :directory_indexes
+activate :middleman_simple_thumbnailer
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/

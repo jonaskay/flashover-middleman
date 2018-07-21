@@ -11,3 +11,6 @@ gem 'builder', '~> 3.0'
 
 # For Google Analytics reports
 gem 'gawk', '~> 0.0.2'
+
+# For resizing images
+gem 'middleman-simple-thumbnailer'

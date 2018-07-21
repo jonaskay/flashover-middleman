@@ -3,6 +3,8 @@
 .DS_Store
 .sass-cache
 build/
+cache/
+tmp/
 
 # Temporary folders for gulp output
 .tmp
