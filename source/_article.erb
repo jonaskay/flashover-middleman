@@ -1,14 +1,26 @@
 <article class="article">
-  <h2>
-    <%= link_to article.title, article, class: 'no-underline text-black hover:underline' %>
-  </h2>
-  <%= article.body %>
-  <footer class="border-t-2 border-grey-darkest pt-2 mt-8 text-sm">
-    <span class="uppercase font-bold">
-      <%= article.date.strftime('%b %e, %Y') %>
-    </span>
-    <div class="float-right">
-      <%= link_to '@jonassskay', 'https://twitter.com/jonassskay', class: 'no-underline' %>
+  <header class="relative mb-8 sm:min-h-16 sm:h-24">
+    <% link_to article do %>
+      <%= image_tag article.data.image,
+                    class: "absolute w-16 sm:w-24 h-16 sm:h-24 border border-grey rounded shadow" %>
+    <% end %>
+    <% link_to article,
+               class: 'block no-underline text-black hover:text-blue-dark sm:border-b-2 ' \
+                      'border-grey-darker hover:border-blue-dark ml-18 sm:ml-28 sm:pb-1' do %>
+      <h2 class="leading-tight">
+        <%= article.title %>
+      </h2>
+    <% end %>
+    <div class="text-grey-darker text-sm sm:mt-1 ml-18 sm:ml-28">
+      <div class="mt-2 inline-block">
+        <%= article.date.strftime('%b %e, %Y') %>
+      </div>
+      <div class="mt-2 ml-2 sm:ml-0 inline-block sm:block">
+        <%= link_to '@jonassskay', 'https://twitter.com/jonassskay', class: 'no-underline' %>
+      </div>
     </div>
-  </footer>
+  </header>
+  <div class="article-body">
+    <%= article.body %>
+  </div>
 </article>
