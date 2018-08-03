@@ -75,6 +75,10 @@
   @apply .underline;
 }
 
+.article blockquote {
+  @apply .border-l-2 .pl-2 .text-grey-darkest;
+}
+
 .article-body img {
   @apply .border .border-grey-light;
 }
