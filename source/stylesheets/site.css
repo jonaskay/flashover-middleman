@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Lora:400,400i,700');
+
 /**
  * This injects Tailwind's base styles, which is a combination of
  * Normalize.css and some additional base styles.
@@ -36,6 +38,19 @@
   * @import "components/forms";
   */
 
+body {
+  font-family: 'Lora', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+
+.header {
+  font-family: 'Lato', sans-serif;
+}
+
 .hr {
   @apply .border-grey-light;
 
@@ -45,6 +60,10 @@
 
 .article {
   margin-bottom: 6rem;
+}
+
+.article-header {
+  font-family: 'Lato', sans-serif;
 }
 
 @media (min-width: 576px) {
@@ -108,16 +127,13 @@
   * @import "utilities/skew-transforms";
   */
 
-.ml-18 {
-  margin-left: 4.5rem;
-}
-
-@media (min-width: 576px) {
-  .sm\:ml-28 {
-    margin-left: 7rem;
-  }
-}
-
 .max-w-140 {
   max-width: 35rem;
 }
+
+@media (min-width: 992px) {
+  .lg\:max-w-xxs {
+    max-width: 14rem;
+  }
+}
+
