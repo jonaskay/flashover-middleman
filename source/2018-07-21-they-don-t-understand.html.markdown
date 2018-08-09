@@ -2,7 +2,7 @@
 
 title: They Don't Understand
 description: The fact that your team-mate says "I understand" doesn't mean they understood you at all
-image: they-don-t-understand.jpg
+image: 1f494.png
 type: article
 date: 2018-07-21 05:00 UTC
 tags:

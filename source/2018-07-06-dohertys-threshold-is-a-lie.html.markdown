@@ -2,7 +2,7 @@
 
 title: Doherty’s Threshold Is a Lie
 description: Doherty’s Threshold dictates that a user experience turns from painful to addictive after the system feedback time drops below 400ms
-image: dohertys-threshold-is-a-lie.jpg
+image: 23f1.png
 type: article
 date: 2018-07-06 05:00 UTC
 tags:
