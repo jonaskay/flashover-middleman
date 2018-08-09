@@ -2,7 +2,7 @@
 
 title: The Hemingway Trick
 description: Ernest Hemingway would say, “When you are going good, stop writing.”
-image: the-hemingway-trick.jpg
+image: 270d.png
 type: article
 date: 2018-07-13 05:00 UTC
 tags:
