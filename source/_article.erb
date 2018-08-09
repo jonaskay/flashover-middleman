@@ -1,23 +1,18 @@
 <article class="article">
-  <header class="relative mb-8 sm:min-h-16 sm:h-24">
-    <% link_to article do %>
-      <%= image_tag article.data.image,
-                    class: 'absolute w-16 sm:w-24 h-16 sm:h-24 border border-grey rounded shadow',
-                    resize_to: '192x192' %>
-    <% end %>
+  <header class="article-header relative mb-8">
+    <%= image_tag article.data.image, class: 'block mx-auto my-4 w-16 sm:w-24 h-16 sm:h-24 mx-auto',
+                                      resize_to: '192x192' %>
     <% link_to article,
-               class: 'block no-underline text-black hover:text-blue-dark sm:border-b-2 ' \
-                      'border-grey-darker hover:border-blue-dark ml-18 sm:ml-28 sm:pb-1' do %>
-      <h2 class="leading-tight">
+               class: 'block no-underline max-w-sm mx-auto text-center text-black ' \
+                      'hover:text-blue-dark border-b-2 border-grey-dark ' \
+                      'hover:border-blue-light m:pb-1' do %>
+      <h2 class="max-w-xs mx-auto leading-tight pb-3 text-2xl sm:text-3xl">
         <%= article.title %>
       </h2>
     <% end %>
-    <div class="text-grey-darker text-sm sm:mt-1 ml-18 sm:ml-28">
-      <div class="mt-2 inline-block">
+    <div class="max-w-sm mx-auto text-grey-darker text-sm text-right sm:mt-1">
+      <div class="mt-2 inline-block ">
         <%= article.date.strftime('%b %e, %Y') %>
-      </div>
-      <div class="mt-2 ml-2 sm:ml-0 inline-block sm:block">
-        <%= link_to '@jonassskay', 'https://twitter.com/jonassskay', class: 'no-underline' %>
       </div>
     </div>
   </header>
