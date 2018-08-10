@@ -19,7 +19,7 @@ Stories beat PowerPoint presentations and Excel sheets hands down because those 
 
 The value of a great story is clear. But great stories aren't just waiting to be written down. They first need to be lived.
 
-Couple of months ago I was listening to Elisa's research manager Esko Kurvinen (Elisa is a Finnish telco with roughly 5000 employees) talk about how the company's e-book service got the internal resources it needed to grow from an idea into a real service.
+Couple of months ago I was listening to Elisa's research manager Esko Kurvinen (Elisa is a Finnish telecommunications company with roughly 5000 employees) talk about how the company's e-book service got the internal resources it needed to grow from an idea into a real service.
 
 It was a company-wide "experimentation day". Every Elisa employee got to go out of the office and just interact with customers and users without caring too much about brand strategies or corporate red tape.
 
