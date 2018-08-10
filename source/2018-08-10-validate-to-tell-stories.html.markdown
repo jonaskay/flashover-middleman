@@ -33,7 +33,7 @@ But is fifty credit card numbers enough validation to convince the C-level execu
 
 This is not about validation--this is an example of the power of story telling. And about using hustling and experimentation to create inspiring stories.
 
-Founders of Airbnb sold election-themed cereal when they were running out of money. The cereal sold-out and gave the founders the 30k they needed to survive for the next months. They also got a story which they use today to promote proactiveness and scrappiness inside the company.
+Founders of Airbnb sold election-themed cereal when they were running out of money. The cereal sold out and gave the founders the 30k they needed to survive for the next months. They also got a story which they use today to promote proactiveness and scrappiness inside the company.
 
 People love these stories. There are popular podcasts dedicated just for startup stories like these ones.
 
