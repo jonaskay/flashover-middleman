@@ -41,9 +41,12 @@
             by
             <%= link_to 'Joonas Kykkänen', 'https://twitter.com/jonassskay', class: 'no-underline' %>
           </div>
-          <p class="leading-tight text-grey-darkest">
+          <p class="leading-tight text-lg text-grey-darkest mb-3">
             Weekly blog posts about business, design, and code
           </p>
+          <nav>
+            <%= link_to 'Read all posts', '/', class: 'underline' %>
+          </nav>
         </header>
         <main class="max-w-140 mx-auto py-2">
           <%= yield %>
