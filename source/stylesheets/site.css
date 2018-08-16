@@ -42,7 +42,12 @@ body {
   font-family: 'Lora', serif;
 }
 
+a {
+  @apply .text-blue-dark;
+}
+
 h1, h2, h3, h4, h5, h6 {
+  background: transparent !important;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
 }
@@ -87,10 +92,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .article p a {
-  @apply .no-underline;
-}
-
-.article p a:hover {
   @apply .underline;
 }
 

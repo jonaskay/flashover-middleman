@@ -10,8 +10,11 @@
         <%= article.title %>
       </h2>
     <% end %>
-    <div class="max-w-sm mx-auto text-grey-darker text-sm text-right sm:mt-1">
+    <div class="max-w-sm mx-auto text-grey-darker sm:mt-1">
       <div class="mt-2 inline-block ">
+        <%= link_to 'Link to post', article, class: 'no-underline' %>
+      </div>
+      <div class="mt-2 float-right">
         <%= article.date.strftime('%b %e, %Y') %>
       </div>
     </div>
