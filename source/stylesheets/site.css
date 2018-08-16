@@ -95,12 +95,24 @@ h1, h2, h3, h4, h5, h6 {
   @apply .underline;
 }
 
+.article ul li {
+  @apply .my-2 .leading-normal;
+}
+
 .article blockquote {
   @apply .border-l-2 .pl-2 .text-grey-darkest;
 }
 
+.article pre {
+  @apply .bg-grey-lightest .border .rounded .p-2;
+}
+
 .article-body img {
   @apply .border .border-grey-light;
+}
+
+twitterwidget {
+  @apply .mx-auto;
 }
 
  /**
