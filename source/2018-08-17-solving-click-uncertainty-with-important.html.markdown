@@ -4,7 +4,7 @@ title: Solving Click Uncertainty with !important
 description: Click certainty is hard to maintain unless you use the !important declaration
 image: 1f5b1.png
 type: article
-date: 2018-08-17 08:00 UTC
+date: 2018-08-17 05:00 UTC
 tags:
 
 ---
