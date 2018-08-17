@@ -15,7 +15,7 @@ tags:
 
 Do you know what makes your app’s user experience seem easy, seamless, and enjoyable? Knowing which UI elements are clickable. And knowing what's not clickable.
 
-When you’re not 100% confident about which UI elements are links and buttons, you are experiencing *click uncertainty*.
+As a user, when you’re not 100% confident about which UI elements are links and buttons, you are experiencing *click uncertainty*.
 
 Here are two symptoms of click uncertainty: You open up a page and can’t instantly identify the things you can click on. You try to click a heading thinking it’s a link.
 
@@ -29,7 +29,7 @@ We have shared expectations on how websites and apps should work. Part of these 
 
 Underlines and blue text color signify clickable links. Rounded borders, gradients, and shadows signify buttons.
 
-Make your text headings blue and people will try to open them in a new tab. Add a border and a background color to the headings and people will try to tap them.
+Make your text headings blue and people will try to open them in a new tab. Add a border and a background color to your headings and people will try to tap them.
 
 Trying to make things look pretty is not really an excuse to ignore these signifiers. Remember that the difference between good and bad design is not only about esthetics. Good design gets out of the way of the user. Bad design stands in the way of the user.
 
@@ -39,7 +39,7 @@ There are some exceptions: Even though blue is the preferred link color, it’s 
 
 A big problem of click uncertainty is that it requires discipline. As your project grows both in feature and team size, it’s not going to be easy to enforce usability rules.
 
-I’m going to be honest here. I don’t think click uncertainty is the thing that’s going to make or break your project (unless you make a conscious effort to confuse your users). You will forget you read about click uncertainty. Other designers in your company will probably never hear the term click uncertainty.
+I’m going to be honest here. I don’t think click uncertainty is the thing that’s going to make or break your project (unless you really make a conscious effort to confuse your users). You will forget you read about click uncertainty. Other designers in your company will probably never hear the term click uncertainty.
 
 Even I will forget that I wrote 500 words about click uncertainty.
 
@@ -53,11 +53,11 @@ People hate `!important` for a good reason.
 
 If you are trying to add some new style rules to a project but other rules keep overriding your new rules, you might be tempted to just write `!important` instead of making more time-consuming changes to the codebase.
 
-`!important` is the easy way out. But your `!important` rules will make it harder for other people to add their changes to the codebase. Usually when you add `!important` declarations you also add technical debt to your project. You can use `!important` to make your work super easy and everybody else’s super hard.
+`!important` is the easy way out. But your `!important` rules will make it harder for other people to add their changes to the codebase. When you add `!important` declarations you also add technical debt to your project. You can use `!important` to make your work super easy and everybody else’s super hard.
 
 But maybe click uncertainty is the perfect use case for `!important`?
 
-If all your links are of the same color, why shouldn’t  you set that color with an additional `!important` declaration? Knowing what you now know about click uncertainty, can you argue why it’s okay for your site to not have uniform links? If your argument is about esthetics, maybe you are trying to stand out *by standing in the way*.
+If all your links are of the same color, why shouldn’t  you set that color with an additional `!important` declaration? Knowing what you now know about click uncertainty, can you argue why it’s okay for your site to have non-uniform links? If your argument is about esthetics, maybe you are trying to stand out *by standing in the way*.
 
 Consider adding these two rules to your project:
 
@@ -72,7 +72,7 @@ Consider adding these two rules to your project:
       background: transparent !important;
     }
 
-If your menu links should be a different color, feel free to add some additional rules with `!important` . If you are feeling inspired, consider writing your button classes with `!important` ([Chris Coyier from CSS-Tricks approves](https://css-tricks.com/when-using-important-is-the-right-choice/)).
+If your menu links should be in different text color, feel free to add some additional rules with `!important` . If you are feeling inspired, consider writing your button classes with `!important` ([Chris Coyier from CSS-Tricks approves](https://css-tricks.com/when-using-important-is-the-right-choice/)).
 
 ###  Final thoughts
 
