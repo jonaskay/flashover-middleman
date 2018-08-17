@@ -84,7 +84,7 @@ Here are the changes that I made to reduce the click uncertainty of [flashover.b
 * My article headings are actually the links to the posts. They don’t look like links though (unless you hover over them with your mouse). I currently display all my posts as they are on the home page. This means you don’t really have to click the heading to read the post. However, you might want to get the link for an individual post for sharing or saving. Therefore I added separate links to the posts that literally say “Link to post”.
 * My blog title “Flashover” serves also as a link to the home page but like my article headings it doesn’t look like a link. Page titles are usually styled differently than normal links. There are other signifiers (position, size, typography) that indicate a page title is in fact a page title. And I would argue that people expect to be able to click a page title and get to the home page. I still wanted to make it easier for people to navigate from an individual post to a list of all posts. For that purpose I added a new link that just says “Read all posts”. Simple stuff.
 
-### PS.
+### Learn more
 
 If you want to read more about clickability signifiers and click uncertainty, I recommend checking out these two articles from NN/g:
 
