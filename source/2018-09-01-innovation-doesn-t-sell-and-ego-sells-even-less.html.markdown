@@ -29,15 +29,15 @@ This is the part where I’m going to move away from selling innovation-as-a-ser
 
 You are currently trying to sell both your clients and colleagues new ideas, methods or products even if you don’t realize it. You might be trying to introduce a new feature for your users. You might be trying to change the way your current project is managed. You might be trying to get your co-workers to switch from one developer tool to another.
 
-It takes effort to change the way you are doing things. If someone adopts an innovation, big or small, they need to be sold on it. They need to be convinced that it’s beneficial for them *to give their attention, time, money, or social status now* in order *to make their life better in the future*.
+It takes effort for people to change the way they do things. If someone adopts an innovation, big or small, they need to be sold on it. They need to be convinced that it’s beneficial for them *to give their attention, time, money, or social status now* in order *to make their life better in the future*.
 
 Simply put, you need to generate action that takes effort.
 
 Larry Ferlazzo is an award-winning high-school teacher and a known blogger and columnist. When it comes to moving people into action, Ferlazzo makes a distinction between two different approaches: irritation and agitation. **Irritation** is trying to make people do something that we want them to do. **Agitation** is trying to make people do something that they want to do.
 
-When you come from outside and try to make things happen in the way that you feel is the best way, you are irritating people. You are trying to make people dance in your tune. You are trying to generate action around external innovations.
+When you come from outside of the team or organization and try to make things happen in the way that you feel is the best way, you are irritating people. You are trying to make people dance in your tune. You are trying to generate action around external innovations.
 
-By way of agitation, you try to listen to people and find out what they really want but fail to achieve. You move the obstacles from their way and you give them the nudge they need to take actual steps towards their goals.
+By way of agitation, you try to listen to people and find out what they really want but fail to achieve. You move the obstacles from their way and you give them the nudge they need in order to take actual steps towards their goals.
 
 It’s easy to see how agitation can lead to more meaningful action compared to irritation. But in general, it’s more common to experience irritation than it is to experience agitation.
 
@@ -45,19 +45,19 @@ I’m not going to deny that I don’t irritate. Cause I definitely do irritate.
 
 To err is human. To irritate is human as well.
 
-Even though I am an irritator, I would like to say that I’m also a remorseful irritator and an aspiring agitator.
+However, even though I am an irritator, I would like to say that I’m a *remorseful irritator*. I'm also an aspiring agitator.
 
 ### Ego is not an agitator
 
 Why is it easier for me to irritate than it is to agitate? Why is it easier for the people you know to irritate? Why is it easier for you to irritate?
 
-Let’s bring the idea of ego, your sense of self-esteem and self-worth, back to the discussion. Because I'm willing to argue that it is your ego that wants to irritate, not you. Your ego doesn’t want to agitate. Your ego doesn’t want you to be humble or understanding because those characteristics are in direct conflict with it.
+Let’s bring the idea of ego, your sense of self-esteem and self-worth, back to the discussion. Because I'm willing to argue that it is your ego that wants to irritate, not you. Your ego doesn’t want to agitate. Your ego doesn’t want you to be humble or understanding (important skills needed for agitation) because those characteristics are in direct conflict with it.
 
-Humility challenges your sense of self-importance. Willingness to learn from mistakes challenges your sense of intellect. When you get humbled, or when you realize that you can be bit of a dummy at times, it hurts because your ego takes a blow.
+Humility challenges your sense of self-importance. Willingness to learn from mistakes challenges your sense of intellect. When you get humbled, or when you realize that you can be a real dummy at times, it hurts because your ego takes a blow.
 
 Naturally, things that can increase your sense of self-importance are in harmony with your ego. There is no conflict. There are no uncomfortable feelings.
 
-A thing that can give you this kind of an ego boost is if you can become a **savior** or a **visionary** inside your or your client’s organization. Maybe there is a project that is going through a rough patch. You want to be the one who comes in guns blazing, lays out the action plan, and leads the team to victory. Or maybe there is a problem inside your client’s organization that you want to solve with your own creative ideas.
+A thing that can give you this kind of an ego comfort is if you can become a **savior** or a **visionary** inside your or your client’s organization. Maybe there is a project that is going through a rough patch. You want to be the one who comes in guns blazing, lays out the action plan, and leads the team to victory. Or maybe there is a problem inside your client’s organization that you want to solve with your own creative ideas.
 
 If things are done in your way, you'll get the credit. You’ll be praised as the savior or the visionary. Your ego will get what it wants.
 
