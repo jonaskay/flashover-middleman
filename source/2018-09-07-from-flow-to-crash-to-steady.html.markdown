@@ -15,7 +15,7 @@ Couple of weeks ago this hobby of mine had, however, taken a bigger role in my l
 
 ### Flow state is a double-edged sword
 
-I believe everybody who has achieved fluency with a programming language and written code with it, has experienced [the flow state](https://en.wikipedia.org/wiki/Flow_(psychology)). Maybe you haven’t completely lost your sense of space and time. But you probably have experienced that warm feeling of concentration and absorption.
+I believe everybody who has achieved fluency with a programming language and written code with it, has experienced [the flow state](https://en.wikipedia.org/wiki/Flow_(psychology)). Maybe you haven’t completely lost your sense of space and time. But you probably have experienced that exciting feeling of concentration and absorption.
 
 The flow state gives you a natural high. But with every high there is a low. When you go up, you eventually come down.
 
@@ -37,7 +37,7 @@ I could feel the initial enthusiasm wear off and the exhaustion creep in. I coul
 
 This is where I’m now. I have taken the much needed break. I have re-evaluated what I want to achieve in terms of my code.
 
-My new goal is not to finish this one project.
+My new goal isn't to finish this one project.
 
 My new goal is to publish and maintain three open-source projects by the end of this year.
 
