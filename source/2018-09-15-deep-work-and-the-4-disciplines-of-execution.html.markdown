@@ -39,6 +39,8 @@ The key is also to **focus** and **limit** yourself. You shouldn’t have ten wi
 
 Publishing and maintaining three open-source projects is my wildly important goal. It’s a goal that allows me to move forward as a developer. It will force me to not only expand my skills in coding, but also my skills in making work that’s consistent and meaningful for other people.
 
+The reason why I'm choosing to publish and maintain three projects instead of just one, is that the challenge of three projects excites me. If I get one project out, I have reached a reasonable goal. If I get three projects out, I have outdone myself.
+
 ### 2. Act on lead measures
 
 There are two types of measures: *lag* and *lead measures*. My goal of three open-source projects is a lag measure because it measures my actual goal of contributing to open-source. But that lag measure of three projects doesn’t really guide me in my daily work.
@@ -59,7 +61,7 @@ On my apartment wall, there is a piece of paper with a table drawn on it. The le
 
 Creating a cadence of accountability is harder when you are working by yourself. There is no social pressure. And there is no support network when things get tough.
 
-The first step in my attempt to manufacture this cadence of accountability, is to put a weekly reminder in my calendar to go over this week’s deep work hours. I’m doing this so that I will regularly review my progress and figure out how I could get more deep work hours done during my weeks.
+The first step in my attempt to manufacture this cadence of accountability, is to put a weekly reminder in my calendar to go over this week’s deep work hours. I’m doing this so that I will regularly review my progress and figure out how I could get more deep work hours done during my next weeks.
 
 The second step is to publish this blog post. The main purpose of this post is to inspire you to keep moving towards your goals. But this post will also push me forward.
 
