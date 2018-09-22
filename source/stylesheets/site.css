@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .article pre {
-  @apply .bg-grey-lightest .border .rounded .p-2;
+  @apply .bg-grey-lightest .border .rounded .p-2 .overflow-x-scroll;
 }
 
 .article-body img {
