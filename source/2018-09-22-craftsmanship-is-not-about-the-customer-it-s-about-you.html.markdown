@@ -15,7 +15,7 @@ You don’t have to read The Case for Slow Design to continue reading this post.
 
 My initial problem with Weaver was his argument that MVPs lead to impossible deadlines, lack of focus, and products that aren’t meaningful. I believe that building an MVP means that you resize your project so that you can set a reasonable deadline. I believe that an MVP forces you to define the core essentials of your product. There is no room for lack of focus. I believe that an MVP is much more about what your customer wants rather than what you want as a creator. At the end of the day, your customer will be the one defining the meaning and value of your product.
 
-A couple of weeks went by and I was still thinking about this article. I couldn’t stop wondering what made Weaver dislike MVPs so much. What’s so wrong about making a product that is just enough to help you figure out whether you’re on to something or not.
+A couple of weeks went by and I was still thinking about the article. I couldn’t stop wondering what made Weaver dislike MVPs so much. What’s so wrong about making a product that is just enough to help you figure out whether you’re on to something or not.
 
 And then it hit me. I think Weaver’s article might be a cry for employee happiness. An argument for craftsmanship in terms of what it can add to a worker’s life.
 
