@@ -35,11 +35,11 @@ This is the mind hack: *treat the “red”, “green”, and “refactor” pha
 
 Remember that part of being focused is about identifying distractions and saying “no” to them.
 
-When you are in the *“red”* phase, you are trying to write a failing test. Don’t allow yourself to get sucked into doing something else. You do have to define interfaces, but you don’t need to know what happens behind those interfaces.
+When you are in the “red” phase, you are trying to write a failing test. Don’t allow yourself to get sucked into doing something else. You do have to define interfaces, but you don’t need to know what happens behind those interfaces.
 
-When you are in the *“green”* phase, you are trying to make the tests pass. In Beck’s words, *“quick green excuses all sins.”* Don’t allow yourself to be concerned about aesthetics. Don’t allow yourself to spin your wheels and try to come up with perfect names.
+When you are in the “green” phase, you are trying to make the tests pass. In Beck’s words, *“quick green excuses all sins.”* Don’t allow yourself to be concerned about aesthetics. Don’t allow yourself to spin your wheels and try to come up with perfect names.
 
-When you are in the *“refactor”* phase, you are not focusing on the problem or the solution. You focus turning *“code that works”* into *“good code that works”*. Allow yourself to correct your sins from the *“green”* phase.
+When you are in the “refactor” phase, you are not focusing on the problem or the solution. You focus turning *“code that works”* into *“good code that works”*. Allow yourself to correct your sins from the “green” phase.
 
 \*\*\*
 
