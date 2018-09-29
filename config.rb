@@ -5,6 +5,7 @@ activate :livereload
 activate :blog do |blog|
   blog.permalink = 'posts/{title}.html'
   blog.layout = 'article_layout'
+  blog.paginate = true
 end
 activate :directory_indexes
 activate :middleman_simple_thumbnailer
