@@ -43,6 +43,6 @@ When you are in the “refactor” phase, you are not focusing on the problem or
 
 \*\*\*
 
-This is about reducing context switching which puts a strain on your brain. This is about understanding that your working memory has a capacity. When you start reaching that capacity, you become more irritable to outside distractions.
+This hack is about reducing context switching which puts a strain on your brain. It's about understanding that your working memory has a capacity. When you start reaching that capacity, you become more irritable to outside distractions.
 
-This is not about code quality. This is about you becoming a happier, more balanced coder.
+When we are talking about being irritable or stressed out, we are not talking about code quality. We are talking about things that prevent you from becoming a happier, more balanced coder. Your family, friends, and co-workers will thank you.
