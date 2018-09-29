@@ -2,23 +2,26 @@
 title: Flashover
 description: A weekly blog about business, design, and coding
 pageable: true
-per_page: 10
+per_page: 5
 ---
 
 <% if paginate && num_pages > 1 %>
-  <p>Page <%= page_number %> of <%= num_pages %></p>
+  <div class="flex justify-between text-grey-darker">
+    <% if prev_page %>
+      <p><%= link_to 'Previous page', prev_page %></p>
+      <p>Page <%= page_number %> of <%= num_pages %></p>
+    <% end %>
+  </div>
+<% end %>
 
-  <% if prev_page %>
-    <p><%= link_to 'Previous page', prev_page %></p>
+<div>
+  <% page_articles.each.with_index do |article, i| %>
+    <%= partial 'article', locals: { article: article } %>
   <% end %>
-<% end %>
-
-<% page_articles.each.with_index do |article, i| %>
-  <%= partial 'article', locals: { article: article } %>
-<% end %>
+</div>
 
 <% if paginate %>
   <% if next_page %>
-    <p><%= link_to 'Next page', next_page %></p>
+    <p class="text-right"><%= link_to 'Next page', next_page %></p>
   <% end %>
 <% end %>
