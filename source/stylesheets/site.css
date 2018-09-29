@@ -67,18 +67,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 6rem;
 }
 
-.article-header {
-  font-family: 'Lato', sans-serif;
+.article:last-child {
+  margin-bottom: 4rem;
 }
 
 @media (min-width: 576px) {
   .article {
     margin-bottom: 8rem;
   }
-}
-
-.article:last-child {
-  margin-bottom: 4rem;
 }
 
 .article p {
@@ -105,6 +101,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .article pre {
   @apply .bg-grey-lightest .border .rounded .p-2 .overflow-x-scroll;
+}
+
+.article-header {
+  font-family: 'Lato', sans-serif;
 }
 
 .article-body img {
