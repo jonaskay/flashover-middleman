@@ -24,7 +24,7 @@ I do read and listen to content related to project management. I work in a compa
 
 I’m telling you this because I don’t want you to read this post as a guideline to how agile works. Instead, I’m hoping that this post will inspire you to reflect on the agile values themselves.
 
-You might be now thinking that, unlike me, you do remember these values. You know your agile. But keep in mind that agile is not like riding a bike. You don’t learn it once. You will forget what agile is really about. Bad software development habits will creep in if you don’t pay close attention.
+You might be now thinking that, unlike me, you do remember these values. You know agile. But keep in mind that agile is not like riding a bike. You don’t learn it once. You will forget what agile is really about. Bad software development habits will creep in if you don’t pay close attention.
 
 You will diverge from the agile software development values because it’s so easy to keep your focus on processes and tools instead of individuals and interactions. You will try to ignore change by following your carefully made plan.
 
@@ -32,7 +32,7 @@ You might also go to the other extreme: you’ll start remembering “Responding
 
 McGregor and Doshi suggest that your team should have a habit of *“constantly diagnosing and iterating [your] operating model.”* Some teams do this diagnosing **on a monthly basis**.
 
-These teams know that being agile is about *finding a balance over and over again*.
+These teams know that being agile is about finding a balance over and over again.
 
 \*\*\*
 
