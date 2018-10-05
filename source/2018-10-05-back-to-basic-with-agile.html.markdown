@@ -39,3 +39,5 @@ These teams know that being agile is about *finding a balance over and over agai
 Lately I have found myself obsessing over processes and best practices in software development. At my work I’m going to take a pause with that stuff for now. Instead, I’m going to obsess over the four agile values.
 
 At the time of writing I still don’t have a good idea of how to make this reflection a regular habit. I’m starting by taping the agile values next to my desk.
+
+![Printout of the agile software development values](agile-values.jpg)
