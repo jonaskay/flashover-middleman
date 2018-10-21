@@ -35,4 +35,6 @@ This is what my interpretation of the first agile value looks like:
 
 I get it, It’s a mouthful. It’s also one possible interpretation of the first agile value. I’m not disagreeing with Ambler here. I think Ambler’s explanation is an important reminder that we can’t make all teams greater than the sum of their parts by trying to invent the perfect processes and tools.
 
+\*\*\*
+
 Let me leave you with a question: What does “individuals and interactions over processes and tools” mean to you?
