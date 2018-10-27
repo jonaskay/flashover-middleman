@@ -23,7 +23,7 @@
     <%= tag :meta, property: 'og:title', content: current_page.data.title || "Flashover" %>
     <%= tag :meta, property: 'og:type', content: current_page.data.type || "website" %>
     <%= tag :meta, property: 'og:url', content: current_url(current_page.url) %>
-    <%= tag :meta, property: 'og:description', content: current_page.data.description %>
+    <%= tag :meta, property: 'og:description', content: current_page.data.description || config[:site_description] %>
     <%= tag :meta, property: 'og:image', content: image_url(current_page.data.image) %>
 
     <%= stylesheet_link_tag "site" %>
@@ -42,7 +42,7 @@
             <%= link_to 'Joonas Kykkänen', 'https://twitter.com/jonassskay', class: 'no-underline' %>
           </div>
           <p class="leading-tight text-lg text-grey-darkest mb-3">
-            Weekly blog posts about business, design, and code
+            <%= config[:site_description] %>
           </p>
           <nav>
             <%= link_to 'Read all posts', '/', class: 'underline' %>

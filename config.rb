@@ -1,3 +1,5 @@
+set :site_description, 'Weekly blog posts about creative work in the tech industry'
+
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
