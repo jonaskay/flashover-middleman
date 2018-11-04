@@ -13,6 +13,8 @@ Last year the Pulitzer Price winning writer and professor Junot Díaz visited th
 
 This week I came across my notes from that talk. They were short and they were primarily about the art of writing. But I feel like I need to share them with you. The notes reminded me how writing code should mainly be a source of joy, not anxiety.
 
+\*\*\*
+
 In addition to writing his own novels, Díaz teaches writing students at MIT. One of the things he is able to sense from the students is the massive stress they have from writing. There is an intense pressure to perform well. It’s much rarer to find true joy and gratitude among the students.
 
 These are three points that Díaz would like you to remember if you are feeling a little less joyful and a little more anxious.
@@ -24,6 +26,8 @@ Second, Díaz says that you should sometimes avoid your art culture. In this con
 Why should you avoid these things? Won’t this ecosystem make you stronger in your art? Díaz argues that your culture will try to destroy your childlike wonder and genuine love for your art. Your culture says that your art doesn’t have value if the critics don’t praise it or the public give money for it.
 
 Third, there is no one right path. Not every writer will take the same journey. And more importantly, not every journey is suitable for every writer. There are options for you.  So instead of stressing over your next move, just do something. Or don’t do anything and just play with your art.
+
+\*\*\*
 
 When Díaz sees a student in their twenties struggling with writer’s block, losing sleep because of stress, and generally taking no joy from the fact that they get to write, he can’t but wonder where will this person be in their sixties. Will their mental state still be dictated by external validation? Will they still write from a place of misery? Will they spend the next 40 years basically torturing themselves?
 
