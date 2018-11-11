@@ -32,4 +32,4 @@ We don't turn mockups into actual software with one iteration. High-definition m
 
 \*\*\*
 
-This post is mainly inspired by a discussion between Ben Orenstein and Adam Wathan on Full Stack Radio (link to the episode).
+This post is mainly inspired by a discussion between Ben Orenstein and Adam Wathan on [Full Stack Radio](http://www.fullstackradio.com/101).
