@@ -1,7 +1,10 @@
 <article class="article">
   <header class="article-header relative mb-8">
-    <%= image_tag article.data.image, class: 'block mx-auto my-4 w-16 sm:w-24 h-16 sm:h-24 mx-auto',
-                                      resize_to: '192x192' %>
+    <% if article.data.image %>
+      <%= image_tag article.data.image,
+            class: 'block mx-auto my-4 w-16 sm:w-24 h-16 sm:h-24 mx-auto',
+            resize_to: '192x192' %>
+    <% end %>
     <% link_to article,
                class: 'block no-underline max-w-sm mx-auto text-center text-black ' \
                       'hover:text-blue-dark border-b-2 border-grey-dark ' \
