@@ -30,11 +30,11 @@ By default, I personally seek out conflict. When a conflict suddenly emerges I u
 
 Even though you might be aware of what’s your conflict style, you won’t automatically learn how to avoid unproductive communication. This is because with conflict comes feelings and emotional responses.  Feelings make it harder for us to control ourselves. We get an urge to either shut down or attack.
 
-Instead of denying your feelings, you should acknowledge their existence. After that, try to dig a little deeper and articulate your feelings for yourself. Try your best to be honest. Do you have a need to be right or a need to be seen by the other party? Are you afraid that other people don’t care about the issue at hand as much as you do?
+Instead of denying your feelings, you should acknowledge their existence. After that, try to dig a little deeper and articulate your feelings for yourself. Try your best to be honest. Do you have a need to be right or a need to be seen by the other party? Are you afraid that the other party doesn’t care about the issue as much as you do?
 
 If you know your default conflict style and you are able to identify your feelings, perhaps it will be easier for you to prepare yourself for situations where conflict might arise.
 
-This is a hack from author and business thinker Nilofer Merchant that I want to give a try. It’s taken from Merchant’s [Harvard Business Review article](https://hbr.org/2018/02/to-change-someones-mind-stop-talking-and-listen) about the importance of listening when creating change. It's a practice you can do when preparing for meetings, workshops or any other events:
+This is a hack from author and business thinker Nilofer Merchant that I want to give a try. It’s taken from Merchant’s [article](https://hbr.org/2018/02/to-change-someones-mind-stop-talking-and-listen) about the importance of listening when creating change. It's a practice you can do when preparing for meetings, workshops or any other events:
 
 > Find an index card or sheet of paper (a paper napkin will also do). On one side, write key ideas that could be useful for you to share. […] On the other side, brainstorm questions you want to ask and things you hope to learn.
 
@@ -42,4 +42,6 @@ This practice forces you to make a physical act to acknowledge that it’s at le
 
 It’s not important if you don’t get to ask the questions as they are written down. What’s more important is that you have primed yourself for curiosity and listening. You have primed yourself for a journey, not for a war.
 
-Are you conflict avoidant or conflict seeking? How do you help yourself to become better at conflict resolution?
+\*\*\*
+
+Are you conflict avoidant or conflict seeking? What can you do to become better at conflict resolution?
