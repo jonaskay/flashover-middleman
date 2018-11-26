@@ -22,6 +22,6 @@ The next issue is motivational loss. In 1913, French agricultural engineer Maxim
 
 Lastly, there is the issue of relational loss studied by author and Ph.D. Jennifer Mueller. When we work in large teams we perceive a lack of connection to other people. Because of this, we feel that there is less support and help available for us. This leads to stress and low performance. 
 
-None of this means that I don't care about my co-workers. Or that I don't have a strong, meaningful connection to my company. It just means that I expect different things from different people. The support and trust I receive from my core team is different from the support and trust I receive from my workplace.
+None of this means that I don't have a strong, meaningful connection to my company. Or that I don't care about my co-workers. It just means that I expect different things from different people. The support and trust I receive from my core team is different from the support and trust I receive from my workplace.
 
 The feelings you have towards your current workplace might have a lot more to do with your current team composition than the actual organization itself.
