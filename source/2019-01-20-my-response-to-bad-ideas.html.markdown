@@ -34,4 +34,4 @@ I have catched myself criticizing ideas that don't really need my criticism. I t
 
 These days, this is how I try to remember to construct my response to ideas that aren't made for me: I can criticize and point out possible problems but at some point I have to show a thumbs-up for the idea. I won't promise that I will be a customer or a strong proponent for the idea but at the end of my response I will urge the person to take concrete steps towards turning the idea into a reality. I imagine pointing my index finger towards the door and saying "go get 'em tiger!"
 
-First a thumbs-up, then an index finger and a word of encouragement. In most cases, it's the best advice I can give.
+First a thumbs-up, then a pointing gesture and a word of encouragement. In most cases, it's the best advice I can give.
