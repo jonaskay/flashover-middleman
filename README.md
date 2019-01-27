@@ -13,7 +13,6 @@ This is my personal blog. You can read it at <http://www.flashover.blog>.
 * [Node.js](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/lang/en/)
 * [gulp-cli](https://gulpjs.com/)
-* [ImageMagick](https://www.imagemagick.org/) or [GraphicsMagick](http://www.graphicsmagick.org/)
 
 ### Installation
 
