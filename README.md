@@ -39,3 +39,6 @@ To build the site, run
 
     $ bundle exec middleman build
 
+## Deployment
+
+`flashover.blog` is the production branch. The production site is built after each push to it. The staging site is built after pushing to branch `staging`.
