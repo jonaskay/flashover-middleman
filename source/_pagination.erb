@@ -1,0 +1,15 @@
+<p class="text-center">Page <%= page_number %> of <%= num_pages %></p>
+<p class="absolute pin-l pin-t">
+  <% if prev_page %>
+    <%= link_to 'Previous', prev_page %>
+  <% else %>
+    <span class="text-grey">Previous</span>
+  <% end %>
+</p>
+<p class="absolute pin-r pin-t">
+  <% if next_page %>
+    <%= link_to 'Next', next_page %>
+  <% else %>
+    <span class="text-grey">Next</span>
+  <% end %>
+</p>

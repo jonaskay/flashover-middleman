@@ -5,11 +5,8 @@ per_page: 5
 ---
 
 <% if paginate && num_pages > 1 %>
-  <div class="flex justify-between text-grey-darker">
-    <% if prev_page %>
-      <p><%= link_to 'Previous page', prev_page %></p>
-      <p>Page <%= page_number %> of <%= num_pages %></p>
-    <% end %>
+  <div class="text-grey-darker mb-8 relative">
+    <%= partial 'pagination' %>
   </div>
 <% end %>
 
@@ -20,7 +17,7 @@ per_page: 5
 </div>
 
 <% if paginate %>
-  <% if next_page %>
-    <p class="text-right"><%= link_to 'Next page', next_page %></p>
-  <% end %>
+  <div class="text-grey-darker my-8 relative">
+    <%= partial 'pagination' %>
+  </div>
 <% end %>
