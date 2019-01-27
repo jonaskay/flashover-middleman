@@ -10,7 +10,6 @@ activate :blog do |blog|
   blog.paginate = true
 end
 activate :directory_indexes
-activate :middleman_simple_thumbnailer
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/
