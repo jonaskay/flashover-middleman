@@ -2,7 +2,6 @@
 
 title: Interruptions That Lead to Interruptions
 description: If you experience a lot of external interruptions you are more likely to have increased amounts of self-interruptions throughout your day
-image: 23f0.png
 type: article
 date: 2018-10-27
 tags:

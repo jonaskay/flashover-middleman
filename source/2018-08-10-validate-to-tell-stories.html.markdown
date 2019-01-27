@@ -2,7 +2,6 @@
 
 title: Validate to Tell Stories
 description: Experimenting is not just about validating assumptions; it's also about gathering story material
-image: 1f4da.png
 type: article
 date: 2018-08-10 05:00 UTC
 tags:

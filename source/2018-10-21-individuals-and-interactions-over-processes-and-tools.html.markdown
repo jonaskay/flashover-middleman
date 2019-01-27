@@ -2,7 +2,6 @@
 
 title: Individuals and Interactions over Processes and Tools
 description: You can read "individuals and interactions" as "autonomy and empathy"
-image: 1f6a3-1f3fe.png
 type: article
 date: 2018-10-21
 tags:

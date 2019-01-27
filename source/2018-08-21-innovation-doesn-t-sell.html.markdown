@@ -2,7 +2,6 @@
 
 title: Innovation Doesn't Sell
 description: Selling innovation-as-a-service is like selling hay to a farmer
-image: 1f4a1.png
 type: article
 date: 2018-08-21 05:00 UTC
 tags:

@@ -2,7 +2,6 @@
 
 title: Try Making Your Customers Content
 description: What really matters to your customers is your product, brand, value, and keeping boring promises like "We promise not to screw up!"
-image: 1f642.png
 type: article
 date: 2018-07-27 05:00 UTC
 tags:

@@ -2,7 +2,6 @@
 
 title: Three Small Exercises to Break Out of Your Creative Slump
 description: You will at some point struggle with the following (we all do)- —writer's block, trying to boil the ocean, perfectionism
-image: 26d3.png
 type: article
 date: 2018-08-03 05:00 UTC
 tags:

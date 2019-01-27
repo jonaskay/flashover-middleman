@@ -2,7 +2,6 @@
 
 title: Craftsmanship Is Not About the Customer. It’s About You.
 description: Are you willing to pass a client project or earn less money than your friends in return for greater meaning in your work?
-image: 1f3a8.png
 type: article
 date: 2018-09-22 05:00 UTC
 tags:

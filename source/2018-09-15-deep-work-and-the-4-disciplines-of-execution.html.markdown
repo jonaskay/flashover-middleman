@@ -2,7 +2,6 @@
 
 title: Deep Work and the 4 Disciplines of Execution
 description: This is the last part of me covering my personal plan for the rest of 2018
-image: 2699.png
 type: article
 date: 2018-09-15 05:00 UTC
 tags:
