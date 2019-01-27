@@ -2,7 +2,6 @@
 
 title: Innovation Doesn't Sell and Ego Sells Even Less
 description: Your ego will make you believe that your clients are looking for a savior, not a servant
-image: 1f388.png
 type: article
 date: 2018-09-01 05:00 UTC
 tags:

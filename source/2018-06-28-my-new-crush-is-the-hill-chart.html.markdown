@@ -2,7 +2,6 @@
 
 title: My New Crush Is the Hill Chart
 description: Hill Chart is a Basecamp invention that let’s you have a 10,000-feet view of your project.
-image: 26f0.png
 type: article
 date: 2018-06-28 05:00 UTC
 tags:
@@ -11,7 +10,7 @@ tags:
 
 Hill Chart is a [Basecamp](https://basecamp.com/) invention that let’s you have a 10,000-feet view of your project. Here’s what a Hill Chart looks like:
 
-![Example of Basecamp's Hill Chart](2018-06-28-my_new_crush_is_the_hill_chart/hill-chart-scott-upton.jpg)
+![Example of Basecamp's Hill Chart](hill-chart-scott-upton.jpg)
 
 The hill is divided into two parts. You have the uphill which is all about figuring things out. And then you have the downhill for implementation.
 

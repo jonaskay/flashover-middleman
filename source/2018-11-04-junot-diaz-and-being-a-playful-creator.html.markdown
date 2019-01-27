@@ -2,7 +2,6 @@
 
 title: Junot Díaz and Being a Playful Creator
 description: Junot Díaz sees a lot of stressed-out students; this is his advice to them
-image: 1f3c0.png
 type: article
 date: 2018-11-04
 tags:

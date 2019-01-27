@@ -2,7 +2,6 @@
 
 title: Back to Basics with Agile
 description: Many of the companies who claim to be agile have actually forgotten the four agile software development values
-image: 1f504.png
 type: article
 date: 2018-10-05 05:00 UTC
 tags:

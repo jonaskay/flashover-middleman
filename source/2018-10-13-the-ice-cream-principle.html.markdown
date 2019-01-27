@@ -2,7 +2,6 @@
 
 title: The Ice Cream Principle
 description: Groups of people will agree on what's easy to agree on, not what's interesting or cool
-image: 1f366.png
 type: article
 date: 2018-10-13 05:00 UTC
 tags:

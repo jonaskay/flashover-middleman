@@ -2,7 +2,6 @@
 
 title: Using TDD as a Mind Hack
 description: You can train your mind and reduce context switching with TDD
-image: 1f6a6.png
 type: article
 date: 2018-09-29 05:00 UTC
 tags:

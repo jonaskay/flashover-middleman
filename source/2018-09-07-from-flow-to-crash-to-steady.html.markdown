@@ -2,7 +2,6 @@
 
 title: From Flow to Crash to Steady
 description: This is the first part about my personal plan for progress for the rest of 2018
-image: 1f4cf.png
 type: article
 date: 2018-09-07 05:00 UTC
 tags:
