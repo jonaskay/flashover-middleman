@@ -4,7 +4,7 @@ pageable: true
 per_page: 5
 ---
 
-<% if paginate && num_pages > 1 %>
+<% if paginate && num_pages > 1 && prev_page %>
   <div class="text-grey-darker mb-8 relative">
     <%= partial 'pagination' %>
   </div>
@@ -16,7 +16,7 @@ per_page: 5
   <% end %>
 </div>
 
-<% if paginate %>
+<% if paginate && num_pages > 1 %>
   <div class="text-grey-darker my-8 relative">
     <%= partial 'pagination' %>
   </div>
