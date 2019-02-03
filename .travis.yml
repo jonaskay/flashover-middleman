@@ -5,4 +5,4 @@ cache: bundler
 rvm:
   - 2.5.3
 before_install: gem install bundler -v 1.17.3
-script: middleman build
+script: bundle exec middleman build
