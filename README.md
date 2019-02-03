@@ -3,7 +3,7 @@
 
 ## About
 
-This is my personal blog. You can read it at <http://www.flashover.blog>.
+This is my personal blog built with [Middleman](https://middlemanapp.com/). You can read it at <http://www.flashover.blog>.
 
 ## Getting Started
 
