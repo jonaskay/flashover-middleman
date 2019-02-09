@@ -1,4 +1,6 @@
 set :site_description, 'Weekly blog posts about creative work in the tech industry'
+set :markdown_engine, :redcarpet
+set :markdown, strikethrough: true
 
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
