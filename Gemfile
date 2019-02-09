@@ -9,5 +9,8 @@ gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw]
 # For feed.xml.builder
 gem 'builder', '~> 3.0'
 
+# Markdown engine
+gem 'redcarpet'
+
 # For Google Analytics reports
 gem 'gawk', '~> 0.0.2'
