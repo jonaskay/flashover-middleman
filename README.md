@@ -1,4 +1,4 @@
-# flashover-blog
+# Flashover
 [![Build Status](https://travis-ci.com/jonaskay/flashover-blog.svg?branch=master)](https://travis-ci.com/jonaskay/flashover-blog)
 
 ## About
