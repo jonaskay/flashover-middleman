@@ -48,4 +48,9 @@ I hope that this week you all get to play a little as well.
 
 ### Additional notes
 
-I'll share my live hobby project and the code for it here when I get a working version out.
+~~I'll share my live hobby project and the code for it here when I get a working version out.~~
+
+**Edit:** here is [a link to the live project](https://cola-inventory.netlify.com/) and the source code for it:
+
+* [Cola Inventory Functions](https://github.com/jonaskay/cola-inventory-functions)
+* [Cola Inventory PWA](https://github.com/jonaskay/cola-inventory-pwa)
