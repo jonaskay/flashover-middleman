@@ -42,4 +42,4 @@ To build the site, run
 
 ## Deployment
 
-`flashover.blog` is the production branch. The production site is built after each push to it. The staging site is built after pushing to branch `staging`.
+The production site is built after each push to `master`. The staging site is built after pushing to branch `staging`.
