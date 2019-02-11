@@ -1,0 +1,8 @@
+[build]
+  command = "bundle exec middleman build"
+  publish = "build/"
+[[redirects]]
+  from = "http://flashover.netlify.com/*"
+  to = "http://www.flashover.blog/:splat"
+  status = 301
+  force = true
