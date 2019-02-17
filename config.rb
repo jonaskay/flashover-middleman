@@ -85,7 +85,7 @@ configure :build do
   ignore 'stylesheets/components/*.css'
   ignore 'stylesheets/utilities/*.css'
 
-  set :protocol, 'http://'
+  set :protocol, 'https://'
   set :host, 'www.flashover.blog'
   set :port, 80
 end
