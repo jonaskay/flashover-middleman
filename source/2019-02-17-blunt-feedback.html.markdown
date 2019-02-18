@@ -1,6 +1,6 @@
 ---
 
-title: Blunt feedback
+title: Blunt Feedback
 description: Blunt feedback is critical to my learning and yet I'm afraid to receive it
 type: article
 date: 2019-02-17
