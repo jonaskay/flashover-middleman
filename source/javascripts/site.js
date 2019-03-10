@@ -25,6 +25,14 @@ document.addEventListener('DOMContentLoaded', function init() {
     }
   }
 
+  function resetContentMinHeight() {
+    var content = document.querySelector('#content');
+    var header = document.querySelector('#header');
+
+    var headerHeight = header.clientHeight;
+    content.setAttribute('style', 'min-height:' + headerHeight + 'px;');
+  }
+
   function clickHandler(element) {
     var lists = document.querySelectorAll('[data-archive-list]');
     for (var i = 0; i < lists.length; i++) {
@@ -34,6 +42,7 @@ document.addEventListener('DOMContentLoaded', function init() {
       } else {
         hide(list);
       }
+      resetContentMinHeight();
     }
   }
 
