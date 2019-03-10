@@ -1,5 +1,3 @@
-// This is where it all goes :)
-
 document.addEventListener('DOMContentLoaded', function init() {
   var DISPLAY_BLOCK = 'display: block;';
   var DISPLAY_NONE = 'display: none;';
