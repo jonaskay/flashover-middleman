@@ -47,6 +47,22 @@
           <nav>
             <%= link_to 'Read all posts', '/', class: 'underline' %>
           </nav>
+          <h3 class="mt-6">Archive</h3>
+          <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+            <div class="my-3">
+              <a href="javascript:;" data-archive="<%= year %>"><h4 class="inline-block"><%= year %></h4></a>
+              <span class="text-grey-darkest">(<%= articles.count %>)</span>
+            </div>
+            <ul class="hidden" data-archive-list="<%= year %>">
+              <% articles.each do |article| %>
+                <li class="my-2 leading-tight">
+                  <a href="<%= article.url %>" class="no-underline hover:underline">
+                    <%= article.title %>
+                  </a>
+                </li>
+              <% end %>
+            </ul>
+          <% end %>
         </header>
         <main class="max-w-140 mx-auto py-2">
           <%= yield %>
