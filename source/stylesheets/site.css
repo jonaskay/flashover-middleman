@@ -140,8 +140,8 @@ twitterwidget {
   * @import "utilities/skew-transforms";
   */
 
-.max-w-140 {
-  max-width: 35rem;
+.max-w-120 {
+  max-width: 30rem;
 }
 
 @media (min-width: 992px) {
