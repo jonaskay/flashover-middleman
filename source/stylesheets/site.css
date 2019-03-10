@@ -148,5 +148,8 @@ twitterwidget {
   .lg\:max-w-xxs {
     max-width: 14rem;
   }
-}
 
+  .lg\:list-disc {
+    list-style-type: disc;
+  }
+}
