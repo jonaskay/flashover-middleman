@@ -8,7 +8,7 @@ tags:
 
 ---
 
-R. Michael Anderson (entrepreneur and business author) came to our offices yesterday to give a talk about his journey from programmer to leader. One of my key takeaways from his talk was the idea of exams vs. experiments. This idea is about understanding how we're taught as a child to avoid swimming in strange waters. It's about changing our inner narrative about failure and perfectionism.
+R. Michael Anderson (entrepreneur and business author) came to our office yesterday to give a talk about his journey from programmer to leader. One of my key takeaways from his talk was the idea of exams vs. experiments. This idea is about understanding how we're taught as a child to avoid swimming in strange waters. It's about changing our inner narrative about failure and perfectionism.
 
 The majority of us have been brought up in a school system that evaluates performance with exams. We get positive feedback from our teachers and parents when we ace a test. When we fail a test or score very low, things get uncomfortable. We face disappointment and the feeling of inadequacy.
 
