@@ -58,7 +58,7 @@
                 <a href="javascript:;" data-archive="<%= year %>" class="no-underline"><%= year %></a>
                 <span class="text-grey-darkest">(<%= articles.count %>)</span>
               </div>
-              <ul class="list-reset lg:list-disc lg:pl-6 hidden" data-archive-list="<%= year %>">
+              <ul class="pl-6 hidden" data-archive-list="<%= year %>">
                 <% articles.each do |article| %>
                   <li class="my-2 leading-tight">
                     <a href="<%= article.url %>" class="no-underline hover:underline">

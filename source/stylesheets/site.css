@@ -198,12 +198,6 @@ twitterwidget {
   max-width: 35rem;
 }
 
-@media (min-width: 992px) {
-  .lg\:list-disc {
-    list-style-type: disc;
-  }
-}
-
 @media (min-width: 1200px) {
   .xl\:max-w-xxs {
     max-width: 16rem;
