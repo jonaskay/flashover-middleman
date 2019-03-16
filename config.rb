@@ -1,4 +1,4 @@
-set :site_description, 'Weekly blog posts about creative work in the tech industry'
+set :site_description, 'Weekly posts about creative work in the tech industry'
 set :markdown_engine, :redcarpet
 set :markdown, strikethrough: true
 

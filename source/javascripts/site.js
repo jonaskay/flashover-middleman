@@ -2,11 +2,11 @@ document.addEventListener('DOMContentLoaded', function init() {
   var DISPLAY_BLOCK = 'display: block;';
   var DISPLAY_NONE = 'display: none;';
 
-  function show(element) {
+  function showList(element) {
     element.setAttribute('style', DISPLAY_BLOCK);
   }
 
-  function hide(element) {
+  function hideList(element) {
     element.setAttribute('style', DISPLAY_NONE);
   }
 
@@ -15,30 +15,30 @@ document.addEventListener('DOMContentLoaded', function init() {
     return style ? style === DISPLAY_NONE : true;
   }
 
-  function toggle(element) {
+  function toggleList(element) {
     if (isHidden(element)) {
-      show(element);
+      showList(element);
     } else {
-      hide(element);
+      hideList(element);
     }
   }
 
   function resetContentMinHeight() {
     var content = document.querySelector('#content');
-    var header = document.querySelector('#header');
+    var menu = document.querySelector('#menu');
 
-    var headerHeight = header.clientHeight;
-    content.setAttribute('style', 'min-height:' + headerHeight + 'px;');
+    var menuHeight = menu.clientHeight;
+    content.setAttribute('style', 'min-height:' + menuHeight + 'px;');
   }
 
-  function clickHandler(element) {
+  function toggleLists(element) {
     var lists = document.querySelectorAll('[data-archive-list]');
     for (var i = 0; i < lists.length; i++) {
       var list = lists[i];
       if (list.dataset.archiveList === element.dataset.archive) {
-        toggle(list);
+        toggleList(list);
       } else {
-        hide(list);
+        hideList(list);
       }
       resetContentMinHeight();
     }
@@ -48,7 +48,39 @@ document.addEventListener('DOMContentLoaded', function init() {
   for (var i = 0; i < links.length; i++) {
     var link = links[i];
     link.onclick = function handleClick() {
-      return clickHandler(this);
+      return toggleLists(this);
     };
   }
+
+  var body = document.querySelector('body');
+
+  function isMenuOpen() {
+    return body.dataset.menuOpen === 'true';
+  }
+
+  function closeMenu() {
+    body.dataset.menuOpen = 'false';
+  }
+
+  function openMenu() {
+    body.dataset.menuOpen = 'true';
+  }
+
+  function toggleMenu() {
+    if (isMenuOpen()) {
+      closeMenu();
+    } else {
+      openMenu();
+    }
+  }
+
+  var menuButton = document.querySelector('#menuButton');
+  menuButton.onclick = function handleClick() {
+    return toggleMenu();
+  };
+
+  var mask = document.querySelector('#mask');
+  mask.onclick = function handleClick() {
+    return closeMenu();
+  };
 });
