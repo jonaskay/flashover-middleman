@@ -14,7 +14,7 @@ The majority of us have been brought up in a school system that evaluates perfor
 
 We learn that it's really important that we do well in our exams, as in, we don't score low. We learn to avoid failure. And even though as professionals our performance is no longer evaluated with exams, we still treat some of our tasks and challenges as tests we need to pass with good grades.
 
-If we are then given a choice between two tests, an easy one and a difficult one, which one do we choose? What if you get to choose between an easy test and no test? If you're like me, you will choose the no test option more often than you care to admit. We've been taught to aim for the A's and avoid the F's. If the perfect score seems elusive, we turn to our secondary strategy of avoiding the test altogether.
+If we are then given a choice between two tests, an easy one and a difficult one, which one do we choose? What if you get to choose between an easy test and no test? If you're like me, you will choose the no test option more often than you dare to admit. We've been taught to aim for the A's and avoid the F's. If the perfect score seems elusive, we turn to our secondary strategy of avoiding the test altogether.
 
 The fact that we try to avoid failure is not by itself bad. Actually, it's a pretty good *modus operandi*. But we don't want this failure-avoiding behavior steer us away from difficult but meaningful work. We don't want us to choose to do nothing because of our fear of failure.
 
