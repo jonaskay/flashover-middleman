@@ -87,6 +87,10 @@ h1, h2, h3, h4, h5, h6 {
   @apply .underline;
 }
 
+.article p a:hover {
+  @apply .no-underline;
+}
+
 .article ul li, .article ol li {
   @apply .my-2 .leading-normal;
 }
