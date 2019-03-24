@@ -51,17 +51,17 @@
             <%= config[:site_description] %>
           </p>
           <nav class="mt-6">
-            <%= link_to 'Home', '/', class: 'no-underline hover:underline font-sans' %>
+            <%= link_to 'Home', '/', class: 'hover:no-underline font-sans' %>
             <h4 class="mt-4">Archive</h4>
             <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
               <div class="my-3 font-sans">
-                <a href="javascript:;" data-archive="<%= year %>" class="no-underline"><%= year %></a>
+                <a href="javascript:;" data-archive="<%= year %>" class="hover:no-underline"><%= year %></a>
                 <span class="text-grey-darkest">(<%= articles.count %>)</span>
               </div>
               <ul class="pl-6 hidden" data-archive-list="<%= year %>">
                 <% articles.each do |article| %>
                   <li class="my-2 leading-tight">
-                    <a href="<%= article.url %>" class="no-underline hover:underline">
+                    <a href="<%= article.url %>" class="no-underline ">
                       <%= article.title %>
                     </a>
                   </li>
