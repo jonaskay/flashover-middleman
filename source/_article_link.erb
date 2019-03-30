@@ -1,0 +1,8 @@
+<div class="border-t py-6">
+  <% link_to article, class: 'no-underline text-grey-darkest hover:text-blue-dark' do %>
+    <div class="mb-2 text-grey-darker font-sans"><%= header %></div>
+    <h3 class="mb-2"><%= article.title %></h3>
+    <p class="leading-normal"><%= article.data.description %></p>
+    <div class="text-blue-dark text-right mt-4">Read more</div>
+  <% end %>
+</div>
