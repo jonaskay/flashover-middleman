@@ -1,6 +1,6 @@
 ---
 
-title: Post-mortem for 2018
+title: Post-Mortem for 2018
 description: I made a goal to publish and maintain three open-source projects and then I didn't do that
 type: article
 date: 2019-04-21
