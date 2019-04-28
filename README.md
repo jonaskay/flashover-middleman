@@ -1,5 +1,4 @@
 # Flashover
-[![Build Status](https://travis-ci.com/jonaskay/flashover-blog.svg?branch=master)](https://travis-ci.com/jonaskay/flashover-blog)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f7e5f080-bc10-4101-9e03-a022684787cf/deploy-status)](https://app.netlify.com/sites/flashover/deploys)
 
 ## About
