@@ -1,6 +1,6 @@
 ---
 
-title: Surviving conferences
+title: Surviving Conferences
 description: This is a four-step plan for attending big conferences with less stress and anxiety
 type: article
 date: 2018-12-02
