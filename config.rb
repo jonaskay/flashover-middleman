@@ -63,7 +63,7 @@ end
 configure :development do
   activate :external_pipeline,
     name: :gulp,
-    command: 'gulp',
+    command: 'yarn develop',
     source: '.tmp',
     latency: 1
 
@@ -78,7 +78,7 @@ end
 configure :build do
   activate :external_pipeline,
     name: :gulp,
-    command: 'gulp build',
+    command: 'yarn build',
     source: '.tmp',
     latency: 1
 

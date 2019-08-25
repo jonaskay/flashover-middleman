@@ -13,7 +13,6 @@ This is my personal blog built with [Middleman](https://middlemanapp.com/). You 
 * [Bundler](http://bundler.io/)
 * [Node.js](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/lang/en/)
-* [gulp-cli](https://gulpjs.com/)
 
 ### Installation
 
