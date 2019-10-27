@@ -20,4 +20,4 @@ You might feel like people aren't listening to you or that you have to repeat th
 
 There's at least two professions where repetition is an obvious part of the process: marketers and teachers. In a world of infinite choices and short attention spans, marketers do not only focus on the content of their messages but also on the frequency. People have to hear the message multiple times before they take any action. Teachers on the other hand don't keep introducing new ideas and concepts to their students every minute of every class. Instead, they make time for revision. Students need repetition to allow the content to sink in.
 
-Change doesn't happen simply by crafting your message. You also need to repeat your message over and over again. If you talk about an idea only once, you might as well have kept your mouth shut in the first place.
+Change doesn't happen simply by crafting your message. You also need to repeat your message over and over again. If you talk about an idea only once, people might listen but they won't act.
