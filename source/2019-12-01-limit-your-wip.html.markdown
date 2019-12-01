@@ -8,6 +8,8 @@ tags:
 
 ---
 
+Last week I read [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592). It's entertaining and it offers a way for IT departments to make their work matter inside organizations that lack IT expertise. WIP is one of the things that the book got me thinking about.
+
 Work in progress (WIP) is the work that has been started but not finished. There is WIP in manufacturing and there is WIP in software development. WIP is an unavoidable step in all production operations. But while WIP is inescapable, it's harmful in excess; when WIP goes up, due date performance goes down.
 
 In manufacturing the more WIP you have in the production area, the more cluttered your work stations are. When there is a pile of unfinished work waiting for the operators to continue where they left off, those operators end up spending more time thinking what to do next instead of moving from one task to another. WIP makes the manufacturing work slower and more unorganized in big and small ways.
@@ -35,7 +37,3 @@ Are these bottlenecks temporary or do they seem to persist even when you move to
 We often give false value to busyness. Many work cultures reward people who look busy running around from meeting to meeting with a phone in their hand. It's the best way to make yourself look important, right?
 
 Because we think busyness is important, sometimes when we face an obstacle with our task at hand, we freak out and start working on another task in order to avoid the risk of inactivity. This is not a good habit. Effectiveness is ultimately about output – not activity. We should all try to get better at finishing instead of getting better at starting.
-
-### Additional notes
-
-Last week I read [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592). It's entertaining and it offers a way for IT departments to make their work matter inside organizations that lack IT expertise. WIP is one of the things that the book got me thinking about.
