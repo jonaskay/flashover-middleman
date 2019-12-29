@@ -23,3 +23,7 @@ Since anxiety and tension are part of our lives, so is drama and conflict. Howev
 * As a rescuer, choose the role of a coach over the role of a hero. As a coach, you assume that other people are capable of solving their own problems. Coaches ask questions that help people understand what they want, what are the current realities, and how can they take steps toward their goals.
 
 David Emerald teaches people how to turn the drama triangle upside down and opt into more constructive roles. You can find his book [The Power of TED](https://www.amazon.com/POWER-TED-EMPOWERMENT-DYNAMIC-Anniversary/dp/0996871802) [here](https://www.amazon.com/POWER-TED-EMPOWERMENT-DYNAMIC-Anniversary/dp/0996871802).
+
+### Update
+
+I've written [a separate post](/posts/book-summary-the-power-of-ted/) about David Emerald's The Power of TED. You can read it [here](/posts/book-review-the-power-of-ted/).
