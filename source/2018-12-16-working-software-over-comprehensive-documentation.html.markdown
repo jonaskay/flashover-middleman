@@ -8,6 +8,8 @@ tags:
 
 ---
 
+*UPDATE: I have finished writing posts for all four agile values. See the bottom of the post for links.*
+
 [Two months ago I got interested in the four agile software development values.](http://www.flashover.blog/posts/back-to-basics-with-agile/) I have never disagreed with the values but I also haven't really reflected about them on a deeper level. [Previously I have written about the first value of "Individuals and interactions over processes and tools."](http://www.flashover.blog/posts/individuals-and-interactions-over-processes-and-tools/) This week I'm discussing the second value, "Working software over comprehensive documentation."
 
 We probably all hate writing documentation. But instead of bad-mouthing docs, I want to start out by pointing out the value of good documentation. The second agile value doesn't state that comprehensive documentation is useless. It just states that working software has more significance than comprehensive documentation.
@@ -29,5 +31,9 @@ The last example deals with the issue of knowledge sharing between technical and
 ### Final notes
 Documentation by itself has no meaning. The meaning comes from the valuable knowledge that gets distributed to different people. Is your team documenting things? If not, what are the ways you are building shared understanding or keeping your work consistent?
 
+### More reading about agile values
 
-
+* [Back to Basics with Agile](/posts/back-to-basics-with-agile/)
+* [Individuals and Interactions over Processes and Tools](/posts/individuals-and-interactions-over-processes-and-tools/)
+* [Customer Collaboration over Contract Negotiation](/posts/customer-collaboration-over-contract-negotiation/)
+* [Responding to Change over Following a Plan](/posts/responding-to-change-over-following-a-plan/)

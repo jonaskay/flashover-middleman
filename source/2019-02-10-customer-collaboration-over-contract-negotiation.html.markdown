@@ -8,6 +8,8 @@ tags:
 
 ---
 
+*UPDATE: I have finished writing posts for all four agile values. See the bottom of the post for links.*
+
 Late last year I wrote [a post about the four agile software development values](http://www.flashover.blog/posts/back-to-basics-with-agile/). Since then I've been writing separate posts for each of the values. Here's [a link to the first post ("Individuals and interactions over processes and tools")](http://www.flashover.blog/posts/individuals-and-interactions-over-processes-and-tools/) and [a link to the second post ("Working software over comprehensive documentation")](http://www.flashover.blog/posts/working-software-over-comprehensive-documentation/). This week I'm going to write about the third value of "Customer collaboration over contract negotiation."
 
 Not only am I going to continue from my previous posts about the agile values but also from my [last week's question of what makes some software agencies more "successful" than others](http://www.flashover.blog/posts/handbook-for-strategic-challenges/).
@@ -37,3 +39,10 @@ Here are some questions to help you start managing your customers:
 * What roles do I need the customer to take?
 * What do I need the customer to understand or learn?
 * How am I helping the customers to achieve these goals?
+
+### More reading about agile values
+
+* [Back to Basics with Agile](/posts/back-to-basics-with-agile/)
+* [Individuals and Interactions over Processes and Tools](/posts/individuals-and-interactions-over-processes-and-tools/)
+* [Working Software over Comprehensive Documentation](/posts/working-software-over-comprehensive-documentation/)
+* [Responding to Change over Following a Plan](/posts/responding-to-change-over-following-a-plan/)
