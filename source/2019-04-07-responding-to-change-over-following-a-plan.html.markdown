@@ -32,7 +32,7 @@ Too often our egos and insecurities get in the way. It's easy to delude ourselve
 
 To read my other posts about the agile software development values, follow the links below:
 
-* [Back to Basics with Agile](https://www.flashover.blog/posts/back-to-basics-with-agile/)
-* [Individuals and Interactions over Processes and Tools](https://www.flashover.blog/posts/individuals-and-interactions-over-processes-and-tools/)
-* [Working Software over Comprehensive Documentation](https://www.flashover.blog/posts/working-software-over-comprehensive-documentation/)
-* [Customer Collaboration over Contract Negotiation](https://www.flashover.blog/posts/customer-collaboration-over-contract-negotiation/)
+* [Back to Basics with Agile](/posts/back-to-basics-with-agile/)
+* [Individuals and Interactions over Processes and Tools](/posts/individuals-and-interactions-over-processes-and-tools/)
+* [Working Software over Comprehensive Documentation](/posts/working-software-over-comprehensive-documentation/)
+* [Customer Collaboration over Contract Negotiation](/posts/customer-collaboration-over-contract-negotiation/)

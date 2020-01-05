@@ -8,6 +8,8 @@ tags:
 
 ---
 
+*UPDATE: I have finished writing posts for all four agile values. See the bottom of the post for links.*
+
 Two weeks ago I wrote about the four agile software development values and how it would be great for all of us to every now and then stop and think what do these values mean to us and our communities. [Here’s a link to that post.](http://www.flashover.blog/posts/back-to-basics-with-agile/)
 
 The very first agile value is *”Individuals and interactions over processes and tools.”*
@@ -37,3 +39,10 @@ I get it, It’s a mouthful. It’s also one possible interpretation of the firs
 \*\*\*
 
 Let me leave you with a question: What does “individuals and interactions over processes and tools” mean to you?
+
+### More reading about agile values
+
+* [Back to Basics with Agile](/posts/back-to-basics-with-agile/)
+* [Working Software over Comprehensive Documentation](/posts/working-software-over-comprehensive-documentation/)
+* [Customer Collaboration over Contract Negotiation](/posts/customer-collaboration-over-contract-negotiation/)
+* [Responding to Change over Following a Plan](/posts/responding-to-change-over-following-a-plan/)
