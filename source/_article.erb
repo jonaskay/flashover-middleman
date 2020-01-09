@@ -1,11 +1,10 @@
 <article class="article">
   <header class="article-header relative mb-8">
-    <% link_to article,
-               class: 'block no-underline max-w-sm mx-auto text-center text-black hover:text-blue-dark' do %>
-      <h2 class="max-w-xs mx-auto leading-tight pb-3 text-2xl sm:text-2xl">
+    <h2 class="max-w-xs mx-auto text-center leading-tight pb-3 text-2xl sm:text-2xl">
+      <% link_to article, class: 'no-underline text-black hover:text-blue-dark' do %>
         <%= article.title %>
-      </h2>
-    <% end %>
+      <% end %>
+    </h2>
     <div class="max-w-sm mx-auto text-grey-darker sm:mt-1">
       <div class="mt-2 inline-block ">
         <%= link_to 'Link to post', article, class: 'no-underline hover:' %>
