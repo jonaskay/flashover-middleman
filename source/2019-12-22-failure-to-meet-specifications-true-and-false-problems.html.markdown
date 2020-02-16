@@ -10,7 +10,6 @@ tags:
 
 Feature requests passed to developers include things like acceptance criteria, product requirements, and mockups. These are the specifications or specs. All code requires some specs – some initial plan for the task waiting for implementation. But this planning part of the work doesn't stop as soon as code writing starts. Often developers find better ways to implement a feature *after they have started working on it*. The details of the implementation plan keep evolving as code gets written.
 
-
 However, when developers start interpreting spec like this instead of following it precisely, two kinds of problems can arise. I'll call these problems true problems and false problems. True problems are situations where developers fail to implement a detail that was indeed extremely critical for business or security. The spec should have been followed more strictly to avoid actual problems. False problems are situations where stakeholders take umbrage against developers who take liberties with the spec even though the original spec contains details that are falsely thought to be critical.
 
 Both true and false problems are something that we should avoid. True problems risk our business. False problems increase unnecessary development work because they require developers to add useless complexity to the codebase. Since true problems are much more scarier than false problems, we might feel comfortable with initiatives that aim to reduce the number of true spec problems even though it might result into an increase of false spec problems.
