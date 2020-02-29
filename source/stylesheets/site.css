@@ -93,7 +93,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .article ul li, .article ol li {
-  @apply .my-2 .leading-normal;
+  @apply .my-2;
+  line-height: 1.625;
 }
 
 .article blockquote {
