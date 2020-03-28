@@ -1,7 +1,7 @@
 ---
 
 title: Social Distancing and Habits
-descrition: What are the new habits you need to build to adapt to the social distancing activities caused by COVID-19?
+description: What are the new habits you need to build to adapt to the social distancing activities caused by COVID-19?
 type: article
 date: 2020-03-21
 tags:
