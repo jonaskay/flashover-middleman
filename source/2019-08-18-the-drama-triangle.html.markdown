@@ -26,4 +26,4 @@ David Emerald teaches people how to turn the drama triangle upside down and opt 
 
 ### Update
 
-I've written [a separate post](/posts/book-summary-the-power-of-ted/) about David Emerald's The Power of TED. You can read it [here](/posts/book-review-the-power-of-ted/).
+I've written [a separate post](/posts/book-review-the-power-of-ted/) about David Emerald's The Power of TED. You can read it [here](/posts/book-review-the-power-of-ted/).
