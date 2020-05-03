@@ -16,6 +16,6 @@ As an educator in the startup space, Rob Walling has seen an unfortunate number 
 
 We tend to treat automated tests like flossing. We agree with the software experts that writing tests is an important practice, but we drop it as soon we as we are in a hurry or we just want to shave some minutes off development time. We get some short-term benefits but in the long-term we are worse off.
 
-Since often the argument against automated tests is that we need to move faster, it's good to remind ourselves that even people like Eric Ries (one of the biggest proponents of "fast beats slow" thinking) believes in the value of automated tests.
+Since often the argument against automated tests is that we need to move faster, it's good to remind ourselves that even people like Eric Ries (one of the biggest proponents of "fast beats slow" thinking) believes in the value of automated tests. Lean Startup can be easily seen as a school of thought that encourages developers to let go of their standards for code quality and test coverage. However, automated tests enable fast learning, not hinder it: when you trust your test suite, you are able to add new features and redo existings ones without constantly worrying about breaking something else inside your product.
 
-Teams who write tests are teams who value growth.
+Teams who write tests are teams who are fast.
