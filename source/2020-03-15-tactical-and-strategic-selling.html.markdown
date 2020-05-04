@@ -14,7 +14,7 @@ tags:
 
 In this post I'll discuss the differences between tactical and strategic selling and why you as a seller should identify if your client is looking for a tactical or a strategic relationship.
 
-Let's start by defining the terms tactical and strategic selling. In tactical selling the focus is on features and attributes that provide quick, limited scope fixes for your client. Strategic selling on the other hando addresses problems on the business level: the focus is on results and benefits that help your client achieve their business objectives as opposed to team or project objectives.
+Let's start by defining the terms tactical and strategic selling. In tactical selling the focus is on features and attributes that provide quick, limited scope fixes for your client. Strategic selling on the other hand addresses problems on the business level: the focus is on results and benefits that help your client achieve their business objectives as opposed to team or project objectives.
 
 When you align your sales to match client needs, you communicate tactical values to tactical buyers and strategic values to strategic buyers. Otherwise you risk losing the sale or entering into a client relationship that is unsatisfying for both you and the client. But how do you know whether a potential client is a tactical or a strategic buyer? And what does this alignment of sales look like in practice?
 
