@@ -17,7 +17,11 @@ per_page: 5
 </div>
 
 <% if paginate && num_pages > 1 %>
-  <div class="text-grey-darker my-8 relative">
+  <div class="text-grey-darker pb-4 my-8 relative">
     <%= partial 'pagination' %>
   </div>
 <% end %>
+
+<div class="bg-grey-lighter p-4 mb-6 rounded shadow">
+  <%= partial 'form' %>
+</div>
