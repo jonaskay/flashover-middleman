@@ -47,7 +47,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  background: transparent !important;
+  background: transparent;
   font-family: 'Lato', sans-serif;
   font-weight: 700;
 }
@@ -81,7 +81,46 @@ h1, h2, h3, h4, h5, h6 {
 
 .article h2 {
   margin-bottom: 1.25rem;
-  margin-top: 2.25rem;
+  margin-top: 3rem;
+}
+
+.article.blog h2 {
+  margin-bottom: -0.5rem;
+}
+
+.article.blog h2.toc {
+  margin-bottom: 1.25rem;
+}
+
+.article h3 {
+  margin-bottom: -0.5rem;
+  margin-top: 2rem;
+}
+
+.article h2 > a, .article h3 > a {
+  @apply .text-black;
+
+  text-decoration: none;
+}
+
+.article.blog h2 > a {
+  @apply .block .w-full .pb-1 .border-b-2 .border-grey-darkest;
+}
+
+.article h2 > a:hover, .article h3 > a:hover {
+  @apply .text-blue-dark;
+
+  text-decoration: underline;
+}
+
+.article.blog h2 > a:hover {
+  @apply .border-blue-dark;
+
+  text-decoration: none;
+}
+
+.article.blog h3 > a:hover {
+  text-decoration: none;
 }
 
 .article p a {

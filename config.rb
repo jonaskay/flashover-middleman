@@ -1,6 +1,6 @@
 set :site_description, 'Blog posts about the technical and non-technical work in the software industry'
 set :markdown_engine, :redcarpet
-set :markdown, strikethrough: true
+set :markdown, strikethrough: true, with_toc_data: true
 
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
