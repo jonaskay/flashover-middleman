@@ -1,0 +1,27 @@
+<div class="menu z-10 fixed pin-y md:relative md:pin-none xl:absolute xl:pin-l xl:pin-t w-xxs md:w-1/3 xl:max-w-xxs p-4 md:pl-2 md:pr-8 md:mb-8 xl:m-0 border-r md:border-none text-left bg-white" id="menu">
+  <h3 class="mb-2"><%= link_to 'Flashover', '/', class: 'no-underline hover:underline font-sans' %></h3>
+  <div class="mb-2 font-sans leading-tight">
+    <%= config[:site_description] %>
+    by <%= link_to 'Joonas Kykkänen', 'httspan://jonas.kay.pink/', class: 'no-underline hover:underline' %>
+  </div>
+  <nav class="mt-6">
+    <h4 class="mt-4">Archive</h4>
+    <ul class="list-reset">
+      <% blog('blog').articles.each do |article| %>
+        <li class="my-3 font-sans">
+          <a href="<%= article.url %>" class="no-underline hover:underline">
+            <%= article.title %>
+          </a>
+        </li>
+      <% end %>
+      <li class="my-3 font-sans">
+        <a href="/weekly-blog" class="no-underline hover:underline">
+          Weekly blog (2018-2020)
+        </a>
+    </ul>
+  </nav>
+  <div class="mt-8 mb-4">
+    <%= partial 'form' %>
+  </div>
+  <%= link_to 'RSS', '/feed.xml' %>
+</div>

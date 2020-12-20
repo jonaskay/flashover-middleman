@@ -1,0 +1,14 @@
+<% blog('weekly').articles.group_by {|a| a.date.year }.each do |year, articles| %>
+  <div class="my-3 font-sans">
+    <a href="javascript:;" data-archive="<%= year %>" class="font-bold no-underline hover:underline"><%= year %></a>
+  </div>
+  <ul class="hidden mb-8 list-reset" data-archive-list="<%= year %>">
+    <% articles.each do |article| %>
+      <li class="my-2 leading-tight">
+        <a href="<%= article.url %>" class="no-underline hover:underline">
+          <%= article.title %>
+        </a>
+      </li>
+    <% end %>
+  </ul>
+<% end %>

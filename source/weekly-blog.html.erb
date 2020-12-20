@@ -1,0 +1,35 @@
+---
+title: Home
+layout: article_layout
+pageable: true
+per_page: 5
+---
+
+<% unless prev_page %>
+  <div class="mb-16 text-center">
+    <h2 class="mb-8">Weekly blog archive</h2>
+    <%= partial 'yearly_archive' %>
+  </div>
+<% end %>
+
+<% if paginate && num_pages > 1 && prev_page %>
+  <div class="text-grey-darker mb-8 relative">
+    <%= partial 'pagination' %>
+  </div>
+<% end %>
+
+<div class="article-list">
+  <% page_articles.each.with_index do |article, i| %>
+    <%= partial 'article', locals: { article: article } %>
+  <% end %>
+</div>
+
+<% if paginate && num_pages > 1 %>
+  <div class="text-grey-darker pb-4 my-8 relative">
+    <%= partial 'pagination' %>
+  </div>
+<% end %>
+
+<div class="bg-grey-lighter p-4 mb-6 rounded shadow">
+  <%= partial 'form' %>
+</div>

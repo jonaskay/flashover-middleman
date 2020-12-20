@@ -1,4 +1,4 @@
-set :site_description, 'Weekly posts about creative work in the tech industry'
+set :site_description, 'Blog posts about the technical and non-technical work in the software industry'
 set :markdown_engine, :redcarpet
 set :markdown, strikethrough: true
 
@@ -6,12 +6,22 @@ set :markdown, strikethrough: true
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
 activate :livereload
+
 activate :blog do |blog|
   blog.layout = 'weekly_layout'
+  blog.name = 'weekly'
   blog.paginate = true
   blog.permalink = 'posts/{title}.html'
-  blog.sources = 'content/weekly/{title}.html'
+  blog.sources = 'content/weekly/{year}-{month}-{day}-{title}.html'
 end
+
+activate :blog do |blog|
+  blog.layout = 'blog_layout'
+  blog.name = 'blog'
+  blog.permalink = 'posts/{title}.html'
+  blog.sources = 'content/blog/{year}-{month}-{day}-{title}.html'
+end
+
 activate :directory_indexes
 
 # Layouts
