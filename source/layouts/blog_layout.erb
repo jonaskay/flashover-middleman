@@ -1,0 +1,6 @@
+<% wrap_layout :article_layout do %>
+  <%= partial 'article', locals: { article: current_article, theme: 'blog' } %>
+  <div class="bg-grey-lighter p-4 mb-6 rounded shadow">
+    <%= partial 'form' %>
+  </div>
+<% end %>

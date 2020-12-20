@@ -1,12 +1,6 @@
 <% wrap_layout :layout do %>
-  <%= partial 'article', locals: { article: current_article } %>
-  <div class="bg-grey-lighter p-4 mb-6 rounded shadow">
-    <%= partial 'form' %>
-  </div>
-  <% if next_article = current_article.article_next %>
-    <%= partial 'article_link', locals: { article: next_article, header: 'Next post' } %>
-  <% end %>
-  <% if previous_article = current_article.article_previous %>
-    <%= partial 'article_link', locals: { article: previous_article, header: 'Previous post' } %>
-  <% end %>
+  <%= partial 'nav' %>
+  <main class="md:w-2/3 xl:w-full max-w-140 py-2 sm:px-8 md:pr-8 xl:px-0 md:mt-8 xl:mx-auto">
+    <%= yield %>
+  </main>
 <% end %>

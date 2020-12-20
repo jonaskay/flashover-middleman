@@ -1,0 +1,12 @@
+<% wrap_layout :article_layout do %>
+  <%= partial 'article', locals: { article: current_article } %>
+  <div class="bg-grey-lighter p-4 mb-6 rounded shadow">
+    <%= partial 'form' %>
+  </div>
+  <% if next_article = current_article.article_next %>
+    <%= partial 'article_link', locals: { article: next_article, header: 'Next post' } %>
+  <% end %>
+  <% if previous_article = current_article.article_previous %>
+    <%= partial 'article_link', locals: { article: previous_article, header: 'Previous post' } %>
+  <% end %>
+<% end %>

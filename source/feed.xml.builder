@@ -2,15 +2,15 @@ xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   site_url = "https://www.flashover.blog/"
   xml.title "Flashover"
-  xml.subtitle "A weekly blog about business, design, and coding"
-  xml.id URI.join(site_url, blog.options.prefix.to_s)
-  xml.link "href" => URI.join(site_url, blog.options.prefix.to_s)
+  xml.subtitle "A blog about the technical and non-technical work in the software industry"
+  xml.id URI.join(site_url, blog('blog').options.prefix.to_s)
+  xml.link "href" => URI.join(site_url, blog('blog').options.prefix.to_s)
   xml.link "href" => URI.join(site_url, current_page.path), "rel" => "self"
-  xml.pubDate(blog.articles.first.date.to_time.iso8601) unless blog.articles.empty?
-  xml.updated(blog.articles.first.date.to_time.iso8601) unless blog.articles.empty?
+  xml.pubDate(blog('blog').articles.first.date.to_time.iso8601) unless blog('blog').articles.empty?
+  xml.updated(blog('blog').articles.first.date.to_time.iso8601) unless blog('blog').articles.empty?
   xml.author { xml.name "@joonaskykkanen" }
 
-  blog.articles[0..5].each do |article|
+  blog('blog').articles[0..5].each do |article|
     xml.entry do
       xml.title article.title
       xml.link "rel" => "alternate", "href" => URI.join(site_url, article.url)

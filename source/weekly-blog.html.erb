@@ -1,0 +1,40 @@
+---
+title: Home
+layout: article_layout
+pageable: true
+per_page: 20
+---
+
+<% unless prev_page %>
+  <div class="mb-8">
+    <h2 class="mb-4">Weekly blog archive</h2>
+    <%= partial 'yearly_archive' %>
+  </div>
+  <h2 class="mb-4">All posts</h2>
+<% end %>
+
+<% if paginate && num_pages > 1 && prev_page %>
+  <div class="text-grey-darker mb-8 relative">
+    <%= partial 'pagination' %>
+  </div>
+<% end %>
+
+<div class="article-list">
+  <% page_articles.each.with_index do |article, i| %>
+    <% link_to article.url, class: 'block my-4 pb-4 border-b text-black no-underline' do %>
+      <h3 class="mb-1 text-blue-dark"><%= article.title %></h3>
+      <div class="text-sm text-grey-dark font-sans"><%= article.date.strftime('%b %e, %Y') %></div>
+      <p class="mt-2"><%= article.data[:description] %></p>
+    <% end %>
+  <% end %>
+</div>
+
+<% if paginate && num_pages > 1 %>
+  <div class="text-grey-darker pb-4 my-8 relative">
+    <%= partial 'pagination' %>
+  </div>
+<% end %>
+
+<div class="bg-grey-lighter p-4 mb-6 rounded shadow">
+  <%= partial 'form' %>
+</div>
