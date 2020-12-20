@@ -41,7 +41,7 @@ Card limits don't solve either of those problems. Instead, they actually introdu
 
 * We don't want to see work sitting in queues and now we have work sitting in queues
 
-Some developers might end up leaving your team because they want to work with code – not customers. Some managers might tear down your kanban board because they want to see results – not learning and validation.
+Some developers might end up leaving your team because they want to work with code—not customers. Some managers might tear down your kanban board because they want to see results—not learning and validation.
 
 In order for a team to push through these challenges, developers have to get comfortable doing work that's unfamiliar to them and teams have to unlearn everything they have been taught about developer productivity. As a more practical matter, the teams have to start thinking about validation as soon as they start working on user stories because otherwise it's likely for the work to get stuck in the pipeline. This is not easy. I'm not even sure if I could handle this challenge.
 

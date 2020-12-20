@@ -20,7 +20,7 @@ After deciding on the goal, I tried to design a support system for it. I wanted 
 
 The scoreboard did its job. During the first weeks, my deep work hours were very low. In the weekly review, I had to face my mediocrity. It wasn't fun. So I promised myself to commit to more deep work hours. Because of that, I actually saw the hours going up during the next weeks. This was great.
 
-However, at some point, the weekly hours started dipping. I also stopped doing the weekly review altogether. First, I could see my results dropping–after that, my overall motivation. Eventually the whole scoreboard turned from a tool of self-management into a visual reminder of my shortcomings.
+However, at some point, the weekly hours started dipping. I also stopped doing the weekly review altogether. First, I could see my results dropping—after that, my overall motivation. Eventually the whole scoreboard turned from a tool of self-management into a visual reminder of my shortcomings.
 
 What happened? Why did those weekly hours start to dip?
 

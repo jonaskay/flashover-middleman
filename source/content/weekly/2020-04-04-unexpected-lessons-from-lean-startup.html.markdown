@@ -44,4 +44,4 @@ New product and service development is filled with stories of failure. From the 
 
 > Those who look to adopt the Lean Startup as a defined set of steps or tactics will not succeed.
 
-Eric Ries does retell many validation stories from the likes of Dropbox and Zappos in his book. For example Dropbox's minimum viable product was simply a video in which they demonstrated how file sharing works using Dropbox. However, for every "proven" validation tactic you can find at least one counterexample. Readers of Lean Startup should take with them an understanding of the underlying principles of new product development – not a set of steps they can use to replicate success.
+Eric Ries does retell many validation stories from the likes of Dropbox and Zappos in his book. For example Dropbox's minimum viable product was simply a video in which they demonstrated how file sharing works using Dropbox. However, for every "proven" validation tactic you can find at least one counterexample. Readers of Lean Startup should take with them an understanding of the underlying principles of new product development—not a set of steps they can use to replicate success.

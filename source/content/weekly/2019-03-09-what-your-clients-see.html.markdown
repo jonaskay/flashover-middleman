@@ -8,7 +8,7 @@ tags:
 
 ---
 
-This week, I had two very similar discussions with other software consultants. In both cases, we were lamenting how our clients often focus on the superficial. In terms of code, they care if the requested feature is up and running–not if it added a significant amount of technical debt to the codebase. In terms of design, the clients care if the thing looks pretty–not if it's tested out or validated with end-users.
+This week, I had two very similar discussions with other software consultants. In both cases, we were lamenting how our clients often focus on the superficial. In terms of code, they care if the requested feature is up and running—not if it added a significant amount of technical debt to the codebase. In terms of design, the clients care if the thing looks pretty—not if it's tested out or validated with end-users.
 
 When I say that my clients focus on the superficial, I'm actually making a very biased argument. In reality, clients see what they are able to see. Firstly, while it's easy to see what's bad work and what's good work, it does take a trained eye to see what's good work and what's *great work*. Secondly and more importantly, only you and your team are able to see the actual work in its entirety. Clients see only what's presented or communicated to them.
 

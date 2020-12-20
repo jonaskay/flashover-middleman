@@ -14,7 +14,7 @@ Do you know the difference between hard and scary? Learning a new programming la
 
 You deal with the hard with self-discipline and wit by working harder or working smarter. But when it comes to fear, you often feel helpless. You tell yourself to "just do it." But your feet are refusing to take a step forward.
 
-It's sometimes hard for me to write these weekly posts. There have been times when the words have not come to me. There have been times when I finished my weekly post at 2 AM–a time of night when I would much rather be catching Z's instead of editing my sentences.
+It's sometimes hard for me to write these weekly posts. There have been times when the words have not come to me. There have been times when I finished my weekly post at 2 AM—a time of night when I would much rather be catching Z's instead of editing my sentences.
 
 However, none of this has been scary. I'm not scared of my computer. I'm not scared of my writing software. I'm not scared of typing.
 

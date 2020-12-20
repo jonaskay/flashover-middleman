@@ -18,7 +18,7 @@ Here are some of the main lessons I learned so far from my interviews.
 
 ## Your network is your biggest asset when starting...
 
-The initial growth engine of almost all the companies I interviewed was the founders' personal networks. Before you get your first customer references, you will end up contacting the people – mainly friends and old colleagues – who already trust you and know your work. It almost seems like one of the variables with most impact in your company's success equation is the size and influence of your current network.
+The initial growth engine of almost all the companies I interviewed was the founders' personal networks. Before you get your first customer references, you will end up contacting the people—mainly friends and old colleagues—who already trust you and know your work. It almost seems like one of the variables with most impact in your company's success equation is the size and influence of your current network.
 
 If you can't rely on your network to bring in projects for the first year of operations, you should probably start building relationships now and consider starting your company later in the future.
 
@@ -28,7 +28,7 @@ While it's easier to find new business and employees using your personal network
 
 ## When you find your "why", marketing becomes easier
 
-One of the youngest companies that was featured on 0-100 is Mavericks – a software agency of around 15 people. Instead of having a cool office and lots of fun employee perks, Mavericks tries to minimize its fixed costs and maximize salaries as best as it can. This approach has allowed Mavericks to differentiate themselves from other software agencies in terms of recruitment.
+One of the youngest companies that was featured on 0-100 is Mavericks—a software agency of around 15 people. Instead of having a cool office and lots of fun employee perks, Mavericks tries to minimize its fixed costs and maximize salaries as best as it can. This approach has allowed Mavericks to differentiate themselves from other software agencies in terms of recruitment.
 
 Jouni Jaakkola, founder of Mavericks, told me that in the previous agencies he had worked at, standing out among other software agencies with similar names and vision statements was a big challenge. Now with a very clear and different value proposition Jaakkola has a much easier time marketing his company both to employees and customers.
 

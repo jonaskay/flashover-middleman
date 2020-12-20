@@ -12,7 +12,7 @@ Moving from low- to high-fidelity prototypes as your project progresses is one o
 
 Why start with low-fidelity? As a designer, why shouldn't you try to express your vision in as much detail as possible?
 
-Au says that in the early stages of a software project, high-fidelity prototypes make teams focus on the wrong things and communicate clarity that's not actually there. Early stage conversations should revolve around high-level concepts like values and priorities. But when teams huddle around high-fidelity mockups, they start discussing the UI details presented to them – not vision and meaning.
+Au says that in the early stages of a software project, high-fidelity prototypes make teams focus on the wrong things and communicate clarity that's not actually there. Early stage conversations should revolve around high-level concepts like values and priorities. But when teams huddle around high-fidelity mockups, they start discussing the UI details presented to them—not vision and meaning.
 
 Au herself learned that an architect agency who she was a client of sometimes hides high-fidelity drawings from their clients. The agency presents them instead with low-fidelity sketches in order to manage expectations and help clients focus on the right things at the right time.
 

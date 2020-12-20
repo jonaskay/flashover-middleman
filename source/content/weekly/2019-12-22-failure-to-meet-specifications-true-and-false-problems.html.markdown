@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Feature requests passed to developers include things like acceptance criteria, product requirements, and mockups. These are the specifications or specs. All code requires some specs – some initial plan for the task waiting for implementation. But this planning part of the work doesn't stop as soon as code writing starts. Often developers find better ways to implement a feature *after they have started working on it*. The details of the implementation plan keep evolving as code gets written.
+Feature requests passed to developers include things like acceptance criteria, product requirements, and mockups. These are the specifications or specs. All code requires some specs—some initial plan for the task waiting for implementation. But this planning part of the work doesn't stop as soon as code writing starts. Often developers find better ways to implement a feature *after they have started working on it*. The details of the implementation plan keep evolving as code gets written.
 
 However, when developers start interpreting spec like this instead of following it precisely, two kinds of problems can arise. I'll call these problems true problems and false problems. True problems are situations where developers fail to implement a detail that was indeed extremely critical for business or security. The spec should have been followed more strictly to avoid actual problems. False problems are situations where stakeholders take umbrage against developers who take liberties with the spec even though the original spec contains details that are falsely thought to be critical.
 

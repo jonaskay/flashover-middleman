@@ -8,7 +8,7 @@ tags:
 
 ---
 
-It's better to start this post with a disclaimer: I'm a software consultant, not a marketer. I've never been in charge of a marketing budget. During my university studies, I did one course in marketing and I barely got a C in it. When it comes to marketing, I'm still very much a novice – a curious novice, but a novice nonetheless.
+It's better to start this post with a disclaimer: I'm a software consultant, not a marketer. I've never been in charge of a marketing budget. During my university studies, I did one course in marketing and I barely got a C in it. When it comes to marketing, I'm still very much a novice—a curious novice, but a novice nonetheless.
 
 Because of this, my views on content marketing might be naive and overly optimistic. Maybe professional work as a marketer would make me fall into cynicism and start treating content marketing as another predatory marketing mechanism. Maybe I'm just a sweet summer child unaware of the hardships of winter.
 

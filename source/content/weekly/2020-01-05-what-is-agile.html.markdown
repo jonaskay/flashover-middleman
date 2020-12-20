@@ -18,4 +18,4 @@ According to Robert "Uncle Bob" Martin, agile teams deliver code every week or e
 
 I myself wrote [a blog post series](/posts/individuals-and-interactions-over-processes-and-tools/) about [agile values](https://agilemanifesto.org/) to reflect more about the meaning of agile. However, I have later found out that [the agile principles](https://agilemanifesto.org/principles.html) are much more helpful when it comes to defining agile in practice. While agile values help teams prioritize their activities, agile principles provide actual practices for them.
 
-You can define agile in surprisingly concrete ways. If one way of defining agile classifies you as a non-agile team, it doesn't necessarily mean the particular definition is wrong. It can be that your team isn't, in fact, agile – not every team is.
+You can define agile in surprisingly concrete ways. If one way of defining agile classifies you as a non-agile team, it doesn't necessarily mean the particular definition is wrong. It can be that your team isn't, in fact, agile—not every team is.

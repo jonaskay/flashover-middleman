@@ -38,4 +38,4 @@ It's probably a good idea for me to make it clear here that I'm not trying to co
 
 ## Final notes
 
-What else has changed in your environment? What are the habits that you need to build to tackle the new challenges and prepare yourself for the upcoming months of social distancing? Remember that things like remote work are now your daily practice and not something you do every now and then – and that the best way out is through.
+What else has changed in your environment? What are the habits that you need to build to tackle the new challenges and prepare yourself for the upcoming months of social distancing? Remember that things like remote work are now your daily practice and not something you do every now and then—and that the best way out is through.

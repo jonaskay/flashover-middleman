@@ -14,7 +14,7 @@ We also know that often the company values are just wishful thinking from the em
 
 I fully admit my cynicism towards company values. The idea of a company refusing to write down their values in order to spare us from the never-ending flow of corporate bullshit gets me excited. Unapologizing honesty and provocation can be thrilling.
 
-But then there is the marketing agency Ogilvy & Mather and their eight organizational virtues. These are values that make me listen, not yawn. Ogilvy & Mather describe creative work in a way that communicates insight: it's clear that they know how the world tries to suppress creativity and what it's actually like to try to grow as a creative community. [Here's an article about the virtues](https://fs.blog/2019/09/the-eternal-pursuit-of-unhappiness/). Go ahead and read it – it's short and concise.
+But then there is the marketing agency Ogilvy & Mather and their eight organizational virtues. These are values that make me listen, not yawn. Ogilvy & Mather describe creative work in a way that communicates insight: it's clear that they know how the world tries to suppress creativity and what it's actually like to try to grow as a creative community. [Here's an article about the virtues](https://fs.blog/2019/09/the-eternal-pursuit-of-unhappiness/). Go ahead and read it—it's short and concise.
 
 These are the three things that Ogilvy & Mather' get right with their company values. Quotes are from the company's book "The Eternal Pursuit of Unhappiness."
 

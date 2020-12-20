@@ -36,4 +36,4 @@ Are these bottlenecks temporary or do they seem to persist even when you move to
 
 We often give false value to busyness. Many work cultures reward people who look busy running around from meeting to meeting with a phone in their hand. It's the best way to make yourself look important, right?
 
-Because we think busyness is important, sometimes when we face an obstacle with our task at hand, we freak out and start working on another task in order to avoid the risk of inactivity. This is not a good habit. Effectiveness is ultimately about output – not activity. We should all try to get better at finishing instead of getting better at starting.
+Because we think busyness is important, sometimes when we face an obstacle with our task at hand, we freak out and start working on another task in order to avoid the risk of inactivity. This is not a good habit. Effectiveness is ultimately about output—not activity. We should all try to get better at finishing instead of getting better at starting.

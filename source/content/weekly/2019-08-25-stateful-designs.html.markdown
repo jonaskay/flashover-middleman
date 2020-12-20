@@ -8,7 +8,7 @@ tags:
 
 ---
 
-This cheatsheet is written to help you add stateful thinking to your component designs. Why do you need this cheatsheet? Because when we discuss features and designs we usually focus on the "happy path" – the default state of our app. Things like errors, blank screens, and loading graphics are easily overlooked.
+This cheatsheet is written to help you add stateful thinking to your component designs. Why do you need this cheatsheet? Because when we discuss features and designs we usually focus on the "happy path"—the default state of our app. Things like errors, blank screens, and loading graphics are easily overlooked.
 
 Consider the following states or lifecycles when drawing up designs for a page or component. Not all are applicable for every situation. Inversely, you might have to introduce additional states.
 

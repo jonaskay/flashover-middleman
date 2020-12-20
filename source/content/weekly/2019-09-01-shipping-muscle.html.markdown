@@ -1,14 +1,14 @@
 ---
 
 title: Shipping Muscle
-description: We use a muscle when sharing our work with the world. This muscle is called the shipping muscle – and like any other muscle in our body we can train it to make it stronger.
+description: We use a muscle when sharing our work with the world. This muscle is called the shipping muscle—and like any other muscle in our body we can train it to make it stronger.
 type: article
 date: 2019-09-01
 tags:
 
 ---
 
-We use a muscle when sharing our work with the world. This muscle is called the shipping muscle – and like any other muscle in our body, we can train it to make it stronger.
+We use a muscle when sharing our work with the world. This muscle is called the shipping muscle—and like any other muscle in our body, we can train it to make it stronger.
 
 The shipping muscle analogy directs us to perceive shipping as **a skill obtained through purposeful training**. This idea is originally shared by [Rob Walling](https://robwalling.com/). I'm not a big fan of analogies as mental models but I do find Walling's idea extremely helpful when dealing with the fear that comes with sharing my own work.
 

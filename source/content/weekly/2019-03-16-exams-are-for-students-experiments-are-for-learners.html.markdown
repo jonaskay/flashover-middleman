@@ -22,6 +22,6 @@ This is why Anderson suggests that we train our minds to treat our tasks and cha
 
 Unintentionally, our schools also teach us that perfection is attainable. It is possible to get the perfect test score. However, as a creative, you know that perfect is the enemy of good. There are domains where the definition of perfect doesn't exist or perfection is almost impossible to reach given our inescapable constraints of time and money. It's the perfectionist in us who is afraid to take the first step in a world of ambiguity and challenges.
 
-When you do experiments instead of exams, you start listening to your inner discoverer–not the perfectionist. Experimentations are about charting unknown territories. The goal is not to get the perfect score. Instead, the goal is to learn and do something meaningful.
+When you do experiments instead of exams, you start listening to your inner discoverer—not the perfectionist. Experimentations are about charting unknown territories. The goal is not to get the perfect score. Instead, the goal is to learn and do something meaningful.
 
 Your new project, diet, or habit is not an exam, it's an experiment. There is no final grade. You fail if you don't try.

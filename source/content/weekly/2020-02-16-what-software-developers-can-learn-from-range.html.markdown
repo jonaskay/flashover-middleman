@@ -22,7 +22,7 @@ First, the more mistakes you are able to tolerate when learning new things, the 
 
 Second, you should practice "spacing" and "interleaving" when learning. Spacing means leaving time between practice sessions. Its effectiveness is somewhat related to the hypercorrection effect: with spacing, you add struggle to your learning and therefore help yourself remember things better in the long run.
 
-Interleaving refers to mixed practice, and it's the opposite of focusing on one type of problem when practicing – i.e. "blocking." Blockers perform better than interleavers during practice sessions but when interleavers and blockers are given new problem scenarios, interleavers surpass blockers.
+Interleaving refers to mixed practice, and it's the opposite of focusing on one type of problem when practicing—i.e. "blocking." Blockers perform better than interleavers during practice sessions but when interleavers and blockers are given new problem scenarios, interleavers surpass blockers.
 
 ## "Compare yourself to yourself yesterday, not to younger people who aren't you"
 

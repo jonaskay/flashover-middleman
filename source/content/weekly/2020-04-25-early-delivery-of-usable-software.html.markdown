@@ -34,4 +34,4 @@ It is true that sometimes it's not possible to deliver usable software after two
 
 Another argument against early delivery of usable software is that it might be more efficient for teams to finish one feature at a time or focus on building a strong foundation in terms of designs, infrastructure, and background systems. However, this approach will also increase the risk of costly misunderstandings.
 
-You take a gamble when you don't ship anything usable early on in your project. If the risk of possible misunderstandings doesn't manifest itself, you should probably consider yourself lucky – not a master at planning.
+You take a gamble when you don't ship anything usable early on in your project. If the risk of possible misunderstandings doesn't manifest itself, you should probably consider yourself lucky—not a master at planning.

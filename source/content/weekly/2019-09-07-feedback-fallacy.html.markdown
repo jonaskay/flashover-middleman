@@ -20,7 +20,7 @@ Why is blunt feedback *bad feedback*? Here are the three systematic errors we ma
 
 First, we think we are a source of truth. Too often we treat feedback as objective statements especially if we collect it from multiple reviewers. In reality, our perception of good versus bad is highly subjective and we all have our false assumptions and unconscious biases. The feedback we give tells more about us than the work we try to review.
 
-Second, negative feedback triggers our lizard brains. Hearing negative feedback makes us raise our guard while positive feedback opens us up for learning and the possibility of change. You should try to keep your colleagues out of the "fight or flight" mode – not push them towards it.
+Second, negative feedback triggers our lizard brains. Hearing negative feedback makes us raise our guard while positive feedback opens us up for learning and the possibility of change. You should try to keep your colleagues out of the "fight or flight" mode—not push them towards it.
 
 Third, you can't codify excellence unless you're trying to replace machines with humans. When you pursue excellence in creative fields, you are navigating uncharted territory. You can't model creative excellence, and because of that you're never really sure if your colleague is "on the right track" whether you like her work or not.
 
