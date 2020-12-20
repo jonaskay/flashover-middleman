@@ -12,7 +12,7 @@ This cheatsheet is written to help you add stateful thinking to your component d
 
 Consider the following states or lifecycles when drawing up designs for a page or component. Not all are applicable for every situation. Inversely, you might have to introduce additional states.
 
-### Data
+## Data
 
 When working with a list, you have to accommodate both the users with zero items and users with lots of items.
 
@@ -22,13 +22,13 @@ When working with a list, you have to accommodate both the users with zero items
 * **Some:** The ideal state of your component. There is data but not too many and not too few.
 * **Too many:** Data starts to overflow. There are too many items or too many characters.
 
-### Availability
+## Availability
 
 * **Disabled:** You are preventing users from interacting with the component.
 * **Enabled:** Things are running smoothly.
 * **Error:** Something has gone wrong.
 
-### Input
+## Input
 
 Buttons react to clicks. Form fields might have validation logic.
 
@@ -36,6 +36,6 @@ Buttons react to clicks. Form fields might have validation logic.
 * **Valid:** Input is valid and ready for submission.
 * **Done:** App has approved the user's input.
 
-### Read more
+## Read more
 
 Vince Speelman gives beautiful examples of stateful thinking in his article ["The Nine States of Design"](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85).

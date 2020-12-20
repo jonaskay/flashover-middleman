@@ -22,7 +22,7 @@ This is because serverless architecture forces you to separate your application 
 
 The separation of logic introduced by serverless architecture, means that you now have much more concrete boundaries between different parts of your application. If you want to introduce a new feature for your application, you have to make changes in bunch of different codebases instead of one monolithic codebase. You also have to deploy a new version for each independent service that you have to change. With a monolith, you would introduce the new feature with a one-time update for the whole application.
 
-### Example of monolithic vs. serverless development
+## Example of monolithic vs. serverless development
 
 Imagine a simple web app for to-do lists. Users can create new lists, add to-dos to them, and mark the to-dos as done.
 
@@ -36,7 +36,7 @@ Working with serverless architecture has been a totally different development ex
 
 This has forced me to think about code and application logic in new ways. For example with Ruby on Rails, I don't have to first think about where each part of my application logic lives. I can always figure that stuff out when I need to. With serverless architecture, you have to do lot more upfront planning. Stepping over to another part of the application is a much more of a pain.
 
-### Developer happiness and experimentation
+## Developer happiness and experimentation
 
 Serverless architecture has made me work slower. Writing with a new language while discovering a new production environment feels extremely tiring at times. But right now I'm also feeling excited and energized. Not because I believe that serverless architecture is the future of all software but because I have had some genuine moments of creative joy.
 
@@ -46,7 +46,7 @@ Second, experimenting with serverless architecture was a form of play for me. I'
 
 I hope that this week you all get to play a little as well.
 
-### Additional notes
+## Additional notes
 
 ~~I'll share my live hobby project and the code for it here when I get a working version out.~~
 

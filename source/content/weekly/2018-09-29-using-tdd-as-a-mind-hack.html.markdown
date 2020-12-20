@@ -12,7 +12,7 @@ In this post, I’m going to be talking about a hidden benefit of test-driven de
 
 I will first give you a short introduction to test-driven development (TDD). After that, I’ll discuss how you can use TDD as a tool to reduce stress and frustrations.
 
-### What is TDD?
+## What is TDD?
 
 TDD is the practice of writing tests before writing code. Here is how you ideally work as a developer if you do TDD:
 
@@ -22,7 +22,7 @@ TDD is the practice of writing tests before writing code. Here is how you ideall
 
 In [Test-Driven Development by Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530), Kent Beck calls this process as the *“Red/Green/Refactor”* cycle. You are in the "red" when your initial tests are failing. You move to "green" when your tests pass. Finally, you refactor code while making sure your tests continue to pass.
 
-### "Red/Green/Refactor" as mental modes
+## "Red/Green/Refactor" as mental modes
 
 I heard about using TDD as a mind hack by watching Tom Stuart’s RubyConf talk [Get Off the Tightrope](https://www.youtube.com/watch?v=TdBELZG0UMY). The whole talk is built around the idea that a major cause for knowledge worker stress is people trying to do a big thing all at once.
 

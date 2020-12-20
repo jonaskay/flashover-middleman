@@ -24,6 +24,6 @@ Since anxiety and tension are part of our lives, so is drama and conflict. Howev
 
 David Emerald teaches people how to turn the drama triangle upside down and opt into more constructive roles. You can find his book [The Power of TED](https://www.amazon.com/POWER-TED-EMPOWERMENT-DYNAMIC-Anniversary/dp/0996871802) [here](https://www.amazon.com/POWER-TED-EMPOWERMENT-DYNAMIC-Anniversary/dp/0996871802).
 
-### Update
+## Update
 
 I've written [a separate post](/posts/book-review-the-power-of-ted/) about David Emerald's The Power of TED. You can read it [here](/posts/book-review-the-power-of-ted/).

@@ -22,17 +22,17 @@ However, setting WIP limits for small teams building custom software sounds trou
 
 Here are three reasons your small team might be facing out-of-control WIP. For each of these issues there exists an alternative to WIP limits.
 
-### 1. You don't control how tasks move from backlog to WIP
+## 1. You don't control how tasks move from backlog to WIP
 
 The pressure to deliver features might be so intense that your colleagues constantly push you to start yet another task before finishing the last one. You are allowing too much work to enter your WIP lane.
 
 If something has a high priority, it moves further up in the backlog. It doesn't enter the production area because we don't want to introduce more clutter and context-switching to our workspace. If you want more finished work, you make the flow of work faster. More WIP means slower flow. Which of your extra tasks are so critical that they allow the overall development speed of your team to drop?
 
-### 2. Bottlenecks prevent you from finishing
+## 2. Bottlenecks prevent you from finishing
 
 Are these bottlenecks temporary or do they seem to persist even when you move to different features? Dealing with persisting bottlenecks are likely to yield more benefits to your team compared to any refactoring or test coverage efforts (unless the bottleneck is related to poor code quality). Theory of constraints teaches us that improvements made at the bottleneck make the system faster. Improvements made anywhere else are illusionary because a chain is no stronger than its weakest link.
 
-### 3. You try to maximise activity instead of output
+## 3. You try to maximise activity instead of output
 
 We often give false value to busyness. Many work cultures reward people who look busy running around from meeting to meeting with a phone in their hand. It's the best way to make yourself look important, right?
 

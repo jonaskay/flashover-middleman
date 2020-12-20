@@ -18,7 +18,7 @@ A couple of weeks went by and I was still thinking about the article. I couldn�
 
 And then it hit me. I think Weaver’s article might be a cry for employee happiness. An argument for craftsmanship in terms of what it can add to a worker’s life.
 
-### An argument for craftsmanship
+## An argument for craftsmanship
 
 We humans value craftsmanship. We value the craftsmanship of other people. But even more, *we value our own craftsmanship*.
 

@@ -12,7 +12,7 @@ In his podcast Revisionist History, Malcolm Gladwell does [two](http://revisioni
 
 Henderson and Gladwell focus on the world of law. But in this post I'm going to discuss their idea from the perspective of programming.
 
-### Who's the better chess player?
+## Who's the better chess player?
 
 Here is Gladwell's argument in a nutshell: We constantly measure people's reasoning ability with time pressured tests. We use those tests to decide for example who is accepted to high-ranking universities. However, science says that test-taking speed does not correlate with reasoning ability. Time pressured tests measure the *speed* of our reasoning ability, not the actual *quality* of it.
 
@@ -24,7 +24,7 @@ Chess player Fabiano Caruana is ranked 2nd in the world. His peer Hikaru Nakamur
 
 So who is actually the better chess player? Nakamura or Caruana? We have the official ranking to answer this question. But if the organization in charge of the ranking would decide to decrease play time dramatically, the ranking would look something completely different. **Great chess players are great in different ways.** The official ranking is just one side of the story.
 
-### Why is someone a great programmer?
+## Why is someone a great programmer?
 
 Think about your colleagues' and your own personal strengths and weaknesses. Think about Nakamura and Caruana. Think about the fact that test-taking speed doesn't correlate with reasoning ability. Are you able to agree with the following statements:
 
@@ -45,7 +45,7 @@ It's also possible that there isn't anything wrong with your biases. If you need
 
 But what if you haven't thought about whether the work you have set out to do is meant for hares or tortoises. What is the version of the fable people tell themselves inside your organization? In the minds of people, is the winner the hare or the tortoise? And if you look at the facts objectively, does their version of the story match with reality?
 
-### My interview story
+## My interview story
 
 A little more than a year ago, I was interviewing for a job. I was asked to take a couple of online tests to measure my reasoning abilities. The tests had such strict time constraints that most people weren't able to finish all the questions in time. You had to mark your answers fast and not second-guess anything.
 

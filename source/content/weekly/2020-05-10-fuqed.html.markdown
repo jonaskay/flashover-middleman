@@ -26,6 +26,6 @@ You cannot run a controlled experiment to find out the link between your intervi
 
 FUQs are frustrating when you want to figure out the best course of action in a given situation. However, the important thing to remember is that just because you are dealing with a FUQ and can't run an experiment to justify your decisions, it doesn't mean that the FUQ is not critical for your organization.
 
-### Additional notes
+## Additional notes
 
 I first learned about FUQs from Tim Harford's book [Adapt](https://www.amazon.com/Adapt-Success-Always-Starts-Failure/dp/0349121516).

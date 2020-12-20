@@ -14,7 +14,7 @@ But having finally read Lean Startup, I can gladly tell you that this was not th
 
 All quotes are taken from Eric Ries and Lean Startup.
 
-### The uncomfortable truth about agile development
+## The uncomfortable truth about agile development
 
 > I was a devotee of the latest in software development methods (known collectively as agile development), which promised to help drive waste out of product development. However, despite that, I had committed the biggest waste of all: building a product that our customers refused to use.
 
@@ -22,7 +22,7 @@ Agile development teams pride themselves in collaborating with stakeholders and 
 
 In these situations, agile practices aren't going to save you from creating features that no one wants.
 
-### Cross-functional teams beat expert functions
+## Cross-functional teams beat expert functions
 
 > Imagine you're a product designer overseeing a new product and you need to produce thirty individual design drawings. It probably seems that the most efficient way to work is in seclusion, by yourself, producing the designs one by one. Then when you're done with all of them, you pass the drawings on to the engineering team and let them work. In other words, you work in large batches. From the point of view of individual efficiency, working in large batches makes sense. It also has other benefits: it promotes skill building, makes it easier to hold individual contributions accountable, and, most important, allows experts to work without interruption. Unfortunately, reality seldom works out that way.
 
@@ -32,7 +32,7 @@ Unlike a joint effort of different expert functions, cross-functional teams are 
 
 The benefits of small batch work and cross-functional teams are counter-intuitive. Which is probably why businesses are still obsessed with specialization and experts over autonomous teams with more individual breadth than depth.
 
-### You need to unlearn what your learned in school
+## You need to unlearn what your learned in school
 
 > As the head of product development, I thought my job was to ensure the timely delivery of high-quality products and features. But if many of those features were a waste of time, what should I be doing instead?
 
@@ -40,7 +40,7 @@ The ability to plan and analyze is one of the key skills of business graduates. 
 
 New product and service development is filled with stories of failure. From the perspective of your business and engineering studies, this failure might seem like professional failure: not being able to provide accurate forecasts or deliver value as promised can be seen as a sign of an unskilled analyst or manager. However, in Lean Startup, this failure is a necessary step towards learning more about your customers. Discovery work is much more closer to trial-and-error than professional craftsmanship.
 
-### No tool is omnicompetent
+## No tool is omnicompetent
 
 > Those who look to adopt the Lean Startup as a defined set of steps or tactics will not succeed.
 

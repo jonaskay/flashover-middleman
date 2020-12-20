@@ -12,7 +12,7 @@ Code is not only work for me. It’s also a hobby. It’s a creative outlet. It�
 
 Couple of weeks ago this hobby of mine had, however, taken a bigger role in my life that I would have wanted. I’m going to tell you what happened and how I’m taking back control. This the first part of a two-part series.
 
-### Flow state is a double-edged sword
+## Flow state is a double-edged sword
 
 I believe everybody who has achieved fluency with a programming language and written code with it, has experienced [the flow state](https://en.wikipedia.org/wiki/Flow_(psychology)). Maybe you haven’t completely lost your sense of space and time. But you probably have experienced that exciting feeling of concentration and absorption.
 
@@ -32,7 +32,7 @@ One month later and no end in sight, I realized that this project was turning in
 
 I could feel the initial enthusiasm wear off and the exhaustion creep in. I could sense what would happen if I didn’t step back and reassess the project.
 
-### My goal for 2018
+## My goal for 2018
 
 This is where I’m now. I have taken the much needed break. I have re-evaluated what I want to achieve in terms of my code.
 

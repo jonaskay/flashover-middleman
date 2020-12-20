@@ -18,7 +18,7 @@ Don't focus too much on the details of these exercises. Your current situation i
 
 Instead, try to read them as inspiration. You can do any of these exercises even if you're having writer's block. They all have a finishing line that tells you when you're done (so you don't have to listen to your perfectionist brain to know when to stop).
 
-### Limit your lines of code to 500 or a set your working hours
+## Limit your lines of code to 500 or a set your working hours
 
 As a developer or designer you want to start building your body of work early on. If you're just starting out, you probably want to have some projects on your GitHub, Behance, Dribbble, or your personal site that you can showcase to potential clients and employers.
 
@@ -30,7 +30,7 @@ You also don't know how to finish. On your laptop, there are dozens of unfinishe
 
 For UI and design work, set a time limit for yourself. Not a deadline for next week but **a specific amount of hours you're allowed to work on the project**. Make sure you have something publishable when those hours are done.
 
-### Email five people
+## Email five people
 
 You have a product that can help thousands of people. You have a message that needs to be heard by millions.
 
@@ -42,7 +42,7 @@ Let's be realistic for a second. You're not going to reach even a hundred people
 
 Email five people. Start from that. **Write authentic emails to people for whom you have something to give.** Don't send the same exact email with modified subject lines to those five people. Each of them deserve a unique, personal message from you.
 
-### Write 300 words of anything
+## Write 300 words of anything
 
 Sometimes I feel empty when I need to start writing my next blog post. I have no energy for writing. All my post ideas feel bad.
 

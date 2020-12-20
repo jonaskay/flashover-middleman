@@ -26,6 +26,6 @@ Organizations across all industries are now reading and implementing the results
 
 The simple solution is to move around high-performance teams, not individuals. If you're Google, the solution might be simple but not feasible. However, if you're not Google, Grant's idea might be within your reach. What would it look like if your organization started firing and promoting teams instead of individuals? What would need to change? And at the end of the day, do you think you would be better off?
 
-### Additional notes
+## Additional notes
 
 To learn more about Adam Grant's advice for Google, you should listen to his [debate with Malcom Gladwell on WorkLife with Adam Grant](https://www.ted.com/talks/worklife_with_adam_grant_a_debate_with_malcolm_gladwell).

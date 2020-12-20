@@ -24,7 +24,7 @@ This is the part where I’m going to move away from selling innovation-as-a-ser
 
 **Because what I’m going to say next has importance to you whether you’re working primarily in sales or primarily as a developer like I do.** I’m going to talk about making action happen inside your organization or inside your client’s organization. After that I’m going to bring it back to the idea of ego and innovation.
 
-### Let’s start with action
+## Let’s start with action
 
 You are currently trying to sell both your clients and colleagues new ideas, methods or products even if you don’t realize it. You might be trying to introduce a new feature for your users. You might be trying to change the way your current project is managed. You might be trying to get your co-workers to switch from one developer tool to another.
 
@@ -46,7 +46,7 @@ To err is human. To irritate is human as well.
 
 However, even though I am an irritator, I would like to say that I’m a *remorseful irritator*. I'm also an aspiring agitator.
 
-### Ego is not an agitator
+## Ego is not an agitator
 
 Why is it easier for me to irritate than it is to agitate? Why is it easier for the people you know to irritate? Why is it easier for you to irritate?
 
@@ -64,6 +64,6 @@ But of course this won’t happen. Your clients and colleagues will see your ego
 
 No sale, no action, no change.
 
-### Additional notes
+## Additional notes
 
 I first learned about agitation, irritation and Larry Ferlazzo from Daniel H. Pink’s book [To Sell Is Human: The Surprising Truth About Moving Others](https://www.amazon.com/Sell-Human-Surprising-Moving-Others/dp/1594631905).

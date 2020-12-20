@@ -16,7 +16,7 @@ Instead, she is communicating to my friend that the best way to find out if an i
 
 Maybe my friend's ideas aren't always pure gold. None of us have only good ideas. But that fact doesn't stop the manager from cultivating a culture of autonomy, creativity and iteration.
 
-### You can't always tell if an idea is bad
+## You can't always tell if an idea is bad
 
 You don't have to believe in an idea 100% before encouraging someone to act on it.
 
@@ -28,7 +28,7 @@ Secondly, you might be the wrong person to judge the idea. Maybe someone pitches
 
 Every idea, solution, or product isn't for everyone. In fact, specific and focused solutions trump generic ones. In marketing, having sharp edges is better than playing it safe and trying to please everyone.
 
-### Responding in a more productive way
+## Responding in a more productive way
 
 I have catched myself criticizing ideas that don't really need my criticism. I thought I was helping when I was actually discouraging people or just being annoying.
 

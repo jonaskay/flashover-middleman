@@ -14,7 +14,7 @@ I have bad news for you. You are heading for an uphill battle.
 
 Companies don’t usually buy innovation. Here are three reasons why:
 
-### 1. You won’t be missed
+## 1. You won’t be missed
 
 The process of innovation starts from an opportunity (a situation where customer needs can be matched with a creative combination of resources) and ends in a concept describing features and benefits of the new product or service. The initial opportunity is usually not discovered in a business meeting while reading the latest technology report. Instead, it’s more often discovered by employees who interact with customers or engineers who experiment with different technologies. Surprisingly many inventions are nothing more than [accidental discoveries](https://www.nytimes.com/2016/01/03/opinion/how-to-cultivate-the-art-of-serendipity.html).
 
@@ -24,7 +24,7 @@ They will also start promoting the idea inside the company. But only *after* the
 
 After the concept gets approved, the external consultants are brought in to draw the designs and write the code. At no point did anyone consider giving you a call. They didn’t know they needed your innovation expertise.
 
-### 2. Your batting average will be low
+## 2. Your batting average will be low
 
 When do clients buy work from you? It’s when they know they need what you’re selling and they trust that you can deliver.
 
@@ -36,7 +36,7 @@ We all know how difficult it is to build new businesses. 9 out of 10 startups fa
 
 You know this and your clients know this. There will be more failures than successes in your portfolio. Clients will treat you with reasonable skepticism rather than blind optimism.
 
-### 3. You’re selling hay to a farmer
+## 3. You’re selling hay to a farmer
 
 [The bottle neck of innovation is not the lack of ideas but the ability to nurture the right ones](https://hbr.org/2013/07/innovation-isnt-an-idea-proble). Kodak invented the first digital camera. Xerox developed the first personal computer. The right idea was there. It just didn’t get the support it needed.
 

@@ -20,7 +20,7 @@ Not everyone who asks for our focus gets it. We want a sample before we make a d
 
 Assume that you get five words to communicate your message. Assume that a visitor only sees the top left and perhaps the bottom right corner of your site. Squint your eyes, let them navigate your site freely, and scan the content. What do you see?
 
-### Additional notes
+## Additional notes
 
 Often people scan content using an F-shaped pattern. Here is Jakob Nielsen's original study about it: [www.nngroup.com/articles/f-shaped-pattern-reading-web-content-discovered/](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content-discovered/). This is a longer article that revisits the F-shaped pattern of reading: [www.nngroup.com/articles/f-shaped-pattern-reading-web-content/](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/).
 

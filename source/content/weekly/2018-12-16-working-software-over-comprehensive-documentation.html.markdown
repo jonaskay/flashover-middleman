@@ -28,10 +28,10 @@ Comprehensive documentation for a development team can also help them to reduce 
 
 The last example deals with the issue of knowledge sharing between technical and non-technical people inside a software project. Documentation can make it easier for people with different backgrounds and skill sets to find a shared vocabulary. But so can face-to-face discussions around artifacts such as post-its, wireframes, and demos. In fact, these discussions can achieve something truly important that documentation can't: they can uncover misconceptions and conflicts. Sure, interactions don't scale the same way as documentation scales, and discussions around misconceptions and conflicts can be uncomfortable. However, if you aren't right now dealing with a scalability problem, you can keep knowledge sharing as a more personal, non-scaling activity.
 
-### Final notes
+## Final notes
 Documentation by itself has no meaning. The meaning comes from the valuable knowledge that gets distributed to different people. Is your team documenting things? If not, what are the ways you are building shared understanding or keeping your work consistent?
 
-### More reading about agile values
+## More reading about agile values
 
 * [Back to Basics with Agile](/posts/back-to-basics-with-agile/)
 * [Individuals and Interactions over Processes and Tools](/posts/individuals-and-interactions-over-processes-and-tools/)

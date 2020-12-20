@@ -28,7 +28,7 @@ Stray, Moe, and Dybå caution us to stay aware of the escalation of commitment a
 
 Too often our egos and insecurities get in the way. It's easy to delude ourselves into continuing with a bad decision or investment. It's obvious that we should alter course when needed, but the task of responding to change is harder than we think.
 
-### Additional notes
+## Additional notes
 
 To read my other posts about the agile software development values, follow the links below:
 

@@ -22,7 +22,7 @@ We can't give our client a car tire and learn about how they use it to transport
 
 The skateboard is different. Our clients can use the skateboard. When using the skateboard, our clients will learn more about what are the most important things about transport in general. We the developers will learn how our clients actually interact with a vehicle.
 
-### The problem with mockups
+## The problem with mockups
 
 When a client comes to you with a goal or a problem they need to solve with software, your first design step should be to figure out what's the smallest useful thing that you can build for that client. When you have that figured out, you can start thinking about the minimum amount of functionalities and requirements needed to deliver something useful.
 
@@ -30,6 +30,6 @@ If your first design step is to open Sketch or Adobe XD on your computer, it's v
 
 We don't turn mockups into actual software with one iteration. High-definition mockups are never that small in scope. Because of this, we break mockups down into smaller parts; we figure out in which order to build the final product. Our deliverables become car tires and not skateboards.
 
-### Additional notes
+## Additional notes
 
 This post is mainly inspired by a discussion between Ben Orenstein and Adam Wathan on [Full Stack Radio](http://www.fullstackradio.com/101).
