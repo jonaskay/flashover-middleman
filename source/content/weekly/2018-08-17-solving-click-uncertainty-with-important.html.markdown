@@ -10,7 +10,7 @@ tags:
 
 *Warning: I’m going to talk about CSS in this post.*
 
-### What is click uncertainty?
+## What is click uncertainty?
 
 Do you know what makes your app’s user experience seem easy, seamless, and enjoyable? Knowing which UI elements are clickable. And knowing what's not clickable.
 
@@ -22,7 +22,7 @@ Your tech-savviness won’t protect you from click uncertainty. However, you pro
 
 The point is that click uncertainty affects us all. Even though we eventually will find the right thing to click, our overall experience will be overshadowed by frustration.
 
-### Why does click uncertainty exist?
+## Why does click uncertainty exist?
 
 We have shared expectations on how websites and apps should work. Part of these expectations are about which things signify clickability and which things signify staticity (non-clickability).
 
@@ -34,7 +34,7 @@ Trying to make things look pretty is not really an excuse to ignore these signif
 
 There are some exceptions: Even though blue is the preferred link color, it’s not the only color you can use as your link color. Your brand color might work nicely as a link color. Also, links inside clearly identified menus (navbars, sidebars, etc.) don’t have to be uniform with text links.
 
-### Preserving click certainty in CSS
+## Preserving click certainty in CSS
 
 A big problem of click uncertainty is that it requires discipline. As your project grows both in feature and team size, it’s not going to be easy to enforce usability rules.
 
@@ -73,7 +73,7 @@ Consider adding these two rules to your project:
 
 If your menu links should be in different text color, feel free to add some additional rules with `!important` . If you are feeling inspired, consider writing your button classes with `!important` ([Chris Coyier from CSS-Tricks approves](https://css-tricks.com/when-using-important-is-the-right-choice/)).
 
-###  Final thoughts
+##  Final thoughts
 
 I thought it might be pretty hypocritical for me to write about click uncertainty and not re-evaluate the clickability signifiers on [flashover.blog](http://www.flashover.blog/).
 
@@ -83,7 +83,7 @@ Here are the changes that I made to reduce the click uncertainty of [flashover.b
 * My article headings are actually the links to the posts. They don’t look like links though (unless you hover over them with your mouse). I currently display all my posts as they are on the home page. This means you don’t really have to click the heading to read the post. However, you might want to get the link for an individual post for sharing or saving. Therefore I added separate links to the posts that literally say “Link to post”.
 * My blog title “Flashover” serves also as a link to the home page but like my article headings it doesn’t look like a link. Page titles are usually styled differently than normal links. There are other signifiers (position, size, typography) that indicate a page title is in fact a page title. And I would argue that people expect to be able to click a page title and get to the home page. I still wanted to make it easier for people to navigate from an individual post to a list of all posts. For that purpose I added a new link that just says “Read all posts”. Simple stuff.
 
-### Learn more
+## Learn more
 
 If you want to read more about clickability signifiers and click uncertainty, I recommend checking out these two articles from NN/g:
 

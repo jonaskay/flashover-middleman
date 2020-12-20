@@ -30,7 +30,7 @@ I’m also not going to go over the whole book here. I’m not even focusing on 
 
 What follows is me going through each discipline of 4DX and applying it to my current situation.
 
-### 1. Focus on the wildly important
+## 1. Focus on the wildly important
 
 You start by defining the wildly important goals. A wildly important goal is a goal that can make a difference. It’s a goal that will make you excited.
 
@@ -40,7 +40,7 @@ Publishing and maintaining three open-source projects is my wildly important goa
 
 The reason why I'm choosing to publish and maintain three projects instead of just one, is that the challenge of three projects excites me. If I get one project out, I have reached a reasonable goal. If I get three projects out, I have outdone myself.
 
-### 2. Act on lead measures
+## 2. Act on lead measures
 
 There are two types of measures: *lag* and *lead measures*. My goal of three open-source projects is a lag measure because it measures my actual goal of contributing to open-source. But that lag measure of three projects doesn’t really guide me in my daily work.
 
@@ -48,13 +48,13 @@ Lead measures are the things that lead you to your goal.
 
 If your goal is to write a book, your lead measure could be the number of words you write per day. In my situation, I’m following Cal Newport and using his primary lead measure: the number of deep work hours. I define deep work hours as hours that are fully dedicated to the code work. This means no emails, no multitasking, and no unplanned breaks.
 
-### 3. Keep a compelling scoreboard
+## 3. Keep a compelling scoreboard
 
 Your scoreboard is the place where you mark your progress. It’s a visual reminder of your goals and lead measures.
 
 On my apartment wall, there is a piece of paper with a table drawn on it. The leftmost column of the table has the week numbers from the current week all the way up to the last week of the year. Next to each number there is a row of empty cells. Those cells are for my deep work hours. When I get one hour of deep work done, I draw a little “x” inside one of the cells.
 
-### 4. Create a cadence of accountability
+## 4. Create a cadence of accountability
 
 4DX advocates for holding each other accountable for our progress. Inside your team, you should have weekly meetings to review and update the scoreboard. Each person in your team will verbally commit to actions that move the team along the lead measures.
 

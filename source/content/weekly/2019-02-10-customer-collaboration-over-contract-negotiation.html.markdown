@@ -40,7 +40,7 @@ Here are some questions to help you start managing your customers:
 * What do I need the customer to understand or learn?
 * How am I helping the customers to achieve these goals?
 
-### More reading about agile values
+## More reading about agile values
 
 * [Back to Basics with Agile](/posts/back-to-basics-with-agile/)
 * [Individuals and Interactions over Processes and Tools](/posts/individuals-and-interactions-over-processes-and-tools/)

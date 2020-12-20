@@ -10,7 +10,7 @@ tags:
 
 This week I attended Slush (startup and tech conference with over 20,000 visitors). Here are my three key takeaways about process, randomness, and trust.
 
-### Process and product development
+## Process and product development
 During an onstage discussion about product management and design between Bradley Horowitz (entrepreneur and Google VP) and Irene Au (design partner at Khosla Ventures), Horowitz mentioned how excellent products are often results of excellent processes.
 
 I got the opportunity to ask Horowitz what makes a good product development process become an excellent one. For some time now, I've been trying to wrap my mind around the meaning of process inside design and development teams. I do believe a great process can elevate a team to the next level. However, at the same time I'm cautious about processes that stifle individual and team autonomy.
@@ -21,7 +21,7 @@ Horowitz also wants to remind us that the details of an excellent process vary f
 
 Embrace the fact that there is no one right way of doing things. But remember, as Horowitz says, all great processes remove friction--whether that friction is ambiguity or bureaucracy.
 
-### Random success
+## Random success
 You could say that Horowitz's and Au's talk was premised on the belief that product success is a result of premeditated actions of teams and individuals. In other words, you make your own luck.
 
 This is not the story of Slack. During a Q&A session, Cal Henderson (Slack's co-founder and CTO) explained how Slack became to be the quintessential unicorn startup company.
@@ -34,7 +34,7 @@ In the startup scene, the common advice is to know when to pivot, or quit and mo
 
 I don't really know what to make of this story. Except that your human experience in this world will continue to be ruled by randomness and luck. You will continue to miss-out because you do the smart thing and succeed because you do the wrong thing.
 
-### Build trust
+## Build trust
 This brings me to my last takeaway from Slush. If you have no idea what to do with your team or your product, then how about just focusing on building trust?
 
 Brian Halligan (CEO of HubSpot) talked about how customers' trust in sales and marketing is at an all time low. This is of course a symptom of a larger erosion of trust in our society. We don't trust our politicians or media. Something that is even more tragic is that more and more people struggle to trust science and medicine--two major cornerstones of human advancement.
@@ -47,7 +47,7 @@ Think about your life and those moments, big or small, when you felt that your t
 
 Now think about how much joy it brings to your life when someone respects your trust. Your customers, your audience, your friends and family are all craving for trust. You can become a more meaningful part in their life by just being more trustworthy. For example, try to be more consistent instead of bending over backwards.
 
-### Final notes
+## Final notes
 Last week I wrote about my Slush preparations. Even though the event is now over, you might find the post useful for your next big conference. [Here is a link to the post](http://www.flashover.blog/posts/surviving-conferences/).
 
 Big thanks to everyone organizing the conference, all the speakers and all the people who I got to meet during the two days!

@@ -20,6 +20,6 @@ I have previously touched on the subject of high-fidelity prototypes when I argu
 
 Markers and sketchpads are still as important tools for designers as prototyping applications.
 
-### Final notes
+## Final notes
 
 A full transcript of Irene Au's talk (as well as the talk itself) can be found at [99u.adobe.com/videos/55969/irene-au-the-architecture-of-creative-collaboration](https://99u.adobe.com/videos/55969/irene-au-the-architecture-of-creative-collaboration).

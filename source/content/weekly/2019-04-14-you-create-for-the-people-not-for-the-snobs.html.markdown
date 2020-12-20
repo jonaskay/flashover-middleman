@@ -24,6 +24,6 @@ As a developer or designer, how much do you try to impress your peers? If your s
 
 It's easy to look down on Las Vegas and its kitschiness. However, this year, more than twice as many people will visit Las Vegas compared to Paris. People really love the city. Even though us snobs hate it.
 
-### Additional notes
+## Additional notes
 
 To learn more about Denise Scott Brown, Robert Venturi, and Las Vegas listen to the [99% Invisible episode *Lessons from Las Vegas*](https://99percentinvisible.org/episode/lessons-from-las-vegas/).

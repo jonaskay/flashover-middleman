@@ -40,7 +40,7 @@ I get it, It’s a mouthful. It’s also one possible interpretation of the firs
 
 Let me leave you with a question: What does “individuals and interactions over processes and tools” mean to you?
 
-### More reading about agile values
+## More reading about agile values
 
 * [Back to Basics with Agile](/posts/back-to-basics-with-agile/)
 * [Working Software over Comprehensive Documentation](/posts/working-software-over-comprehensive-documentation/)

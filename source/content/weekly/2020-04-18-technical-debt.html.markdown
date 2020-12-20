@@ -28,6 +28,6 @@ At some point of their history, tech giants such as Microsoft and Amazon have ha
 
 While introducing new technical debt is not a mistake, not acknowledging the fact that shortcuts and easy fixes come with a price is.
 
-### Final notes
+## Final notes
 
 I first learned about Symbian's compilation time from Gene Kim's business novel [The Unicorn Project](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41). Risto Siilasmaa's book [Transforming NOKIA](https://www.amazon.com/Transforming-NOKIA-Paranoid-Optimism-Colossal/dp/1260128725) can be found [here](https://www.amazon.com/Transforming-NOKIA-Paranoid-Optimism-Colossal/dp/1260128725). Both books are great reads for anyone looking for great storytelling in the tech space.

@@ -20,7 +20,7 @@ As a result, if you look at a Hill Chart you can see what’s actually finished,
 
 I’m not really a Basecamp user. This post is not about a software feature. I just want to tell you why I love the idea of the Hill Chart.
 
-### There’s the part that’s easy to like&hellip;
+## There’s the part that’s easy to like&hellip;
 
 I have a really hard time with keeping many things in my head at the same time. When you have a new project, it’s pretty easy to have a comprehensive understanding of what you’re doing now and what needs to be done next because the project isn’t that big yet in terms of project details. But once time progresses your project will become more complex as new issues emerge and as you start breaking big tasks into smaller tasks.
 
@@ -32,7 +32,7 @@ This is why I like [User Story Maps](https://manifesto.co.uk/user-story-mapping/
 
 And this is why I love the Hill Chart. I look at Basecamp’s examples of Hill Charts and I have no idea what are the details of those samples. I have no idea what’s the backstory. I have no idea who the team is. But I feel like I have a deeply satisfying understanding of the overall state of the project.
 
-### &hellip;and there’s the part that requires some work from me
+## &hellip;and there’s the part that requires some work from me
 
 If I want to embrace the Hill Chart, I need to embrace one thing that I’m not comfortable with. This one thing is that this is a chart that’s *not metric driven nor will it ever be*.
 
@@ -44,7 +44,7 @@ Qualitative data is messy and ambiguous. Quantitative data, on the other hand, i
 
 But there is so much value in that qualitative data. There is value in those interactions and discussions with real people. There is value in not going on an endless search for an absolute truth if you can give a close enough data point right now, today.
 
-### Learn more
+## Learn more
 
 If you want to learn more about the Hill Chart, here is Basecamp’s blog post about it <https://m.signalvnoise.com/new-in-basecamp-see-where-projects-really-stand-with-the-hill-chart-ca5a6c47e987>. Here is their YouTube video about the chart <https://www.youtube.com/watch?v=UlLkS0lxRV0>.
 

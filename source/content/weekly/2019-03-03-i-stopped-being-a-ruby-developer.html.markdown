@@ -12,7 +12,7 @@ This week I started working at a new company. I'm still doing software consultin
 
 For the past 4 years, I have primarily worked with Ruby on Rails and I have identified myself partly as a Ruby developer. Ruby is now going to play a much smaller role in my life. And I like it. Not because I dislike Ruby or Ruby on Rails—*Rails is awesome!* But because my identity is going to be tied much less to a specific programming language.
 
-### The problem with identity
+## The problem with identity
 
 When making the initial tech stack decisions, software teams tend to ask themselves what technologies are they familiar with rather than what are the best tools for solving the identified problems. This is partly caused by the fact that it's actually very hard to define the optimal development tools for a given context. Discussions about the merits of different programming languages and frameworks contain much more disagreement than agreement. In 2019, we still haven't come to  a consensus on what is the best web app framework.
 

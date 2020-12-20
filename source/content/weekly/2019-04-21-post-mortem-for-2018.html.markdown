@@ -14,7 +14,7 @@ But then I didn't do the work.
 
 I did keep writing code on my own time. However, that code didn't result in a single solid project. I'm not really sure why things turned out the way they did. Therefore, I'm not really sure how I should actually feel about this failure. Maybe I got lazy. Maybe I chose the wrong goal. I don't know. Let's try to find out.
 
-### Strong start, weak finish
+## Strong start, weak finish
 
 After deciding on the goal, I tried to design a support system for it. I wanted to make it as easy as possible for me to work towards my goal, and conversely, make it as difficult as possible for me to slack off. The most important part of my system was a scoreboard which I used to track deep work hours (hours of coding without checking social media or taking unplanned breaks). I would also review my hours on a weekly basis.
 
@@ -24,7 +24,7 @@ However, at some point, the weekly hours started dipping. I also stopped doing t
 
 What happened? Why did those weekly hours start to dip?
 
-### Poor habits, stress, and career
+## Poor habits, stress, and career
 
 First, it's normal to have higher levels of motivation and energy at the beginning of a project. There is this natural high that carries us through the first days of our new endeavors. We might stay up late and sometimes we even forget to eat.
 
@@ -36,6 +36,6 @@ Second, life happens. Work got more stressful during the fall and early winter. 
 
 Finally, I started thinking more and more about my future career as a developer. Primarily, I couldn't decide whether I should try to specialize or be a jack of all trades (and master of some). This internal conflict affected my personal projects since I kept second guessing whether a particular project was a good fit in terms of my career development. I spent a lot of time spinning my wheels instead of doing actual work. In the end, I decided to prioritize my interests and curiosity over the interests of my potential employers. I wrote more about this in my post ["What to Learn in 2019"](https://www.flashover.blog/posts/what-to-learn-in-2019/).
 
-### Final notes
+## Final notes
 
 I haven't actually set a goal like this for 2019. To be honest, I'm a little afraid of reproducing the demoralizing aspects of this experiment. I'm afraid of losing my joy of coding. And I do believe that play and having fun advance our learning and ability to ship much more than we give credit for it.

@@ -22,7 +22,7 @@ And yet we often end up with neglected company blogs and content that doesn't se
 
 What makes a business struggle with content marketing? Here are three problems that you might be dealing with:
 
-### 1. You focus on ROI
+## 1. You focus on ROI
 
 Digital platforms enable much more accurate data collecting methods compared to offline channels. Companies can tell if you bought something from them or scheduled a meeting with them after you clicked a paid ad on Google. This is still not possible with things like TV or magazine ads.
 
@@ -34,7 +34,7 @@ If after producing content for a year, you allow yourself to look at the metrics
 
 Maybe. But before you make up your mind, consider the following:
 
-### 2. You have a quality/quantity problem
+## 2. You have a quality/quantity problem
 
 Here is the second problem in a nutshell: your content is not that great.
 
@@ -50,7 +50,7 @@ Even though you can tell the difference between a low-value and a high-value con
 
 Quantity leads to quality, or in other words "practice makes perfect." Keep pushing out content consistently and frequently, and the content creators inside your company start to become better content creators. What's the number one advice on becoming a better writer? Write more. Why wouldn't this same advice apply to content creation?
 
-### 3. You don't have content creators
+## 3. You don't have content creators
 
 Of course you can't keep pushing out content if you don't have the required resources. Companies don't struggle with content marketing because they don't have enough ideas. Your company is full of people with stories, ideas, and knowledge that are waiting to be shared with the world. What your company doesn't have is people who are excited about content creation.
 

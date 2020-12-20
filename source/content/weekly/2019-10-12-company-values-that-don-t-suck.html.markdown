@@ -18,19 +18,19 @@ But then there is the marketing agency Ogilvy & Mather and their eight organizat
 
 These are the three things that Ogilvy & Mather' get right with their company values. Quotes are from the company's book "The Eternal Pursuit of Unhappiness."
 
-### 1. They aspire
+## 1. They aspire
 
  > Helen Keller, the deaf and blind activist, was asked by a journalist what she thought would be worse than being born blind. She replied without missing a beat, ‘to have sight and no vision.’
 
 One of Ogilvy & Mather's virtues is idealism, and this quote from Helen Keller sets the bar for expected idealism pretty high. However, often when you set the bar higher, you start to see the average going up also.
 
-### 2. They make a stand
+## 2. They make a stand
 
 > We waste our beautiful mind by leaning lopsidedly on logic.
 
 To say that we solve problems *"through intuitive leaps"* instead of interpreting the data is bold. Not everyone is going to agree with your process.
 
-### 3. They support
+## 3. They support
 
 > If the client kills your day, do him a better one.
 

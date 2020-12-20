@@ -16,7 +16,7 @@ But our way of dealing with conflict can be good or bad--productive or unproduct
 
 There are also ways of communicating that come more naturally for us. This is stuff that's part of our personality. Or stuff that we carry with us from our childhood homes, personal relationships, and cultural contexts.
 
-### Conflict avoidant vs. conflict seeking
+## Conflict avoidant vs. conflict seeking
 
 To simplify things, your default way of dealing with conflict can be considered as conflict avoidant or conflict seeking. Instinctively, you either hide from conflict or you seek it out. Neither is better than the other but in the extreme, they are both unhealthy.
 
@@ -26,7 +26,7 @@ The problem with these kind of tactics is that you are preparing for a war where
 
 By default, I personally seek out conflict. When a conflict suddenly emerges I usually charge towards it rather than run away from it. This means that from my side, poor conflict resolution is often caused by over-aggressive communication. I push too hard instead of calming down and really listening what the other person has to say.
 
-### Being present in conflict
+## Being present in conflict
 
 Even though you might be aware of what’s your conflict style, you won’t automatically learn how to avoid unproductive communication. This is because with conflict comes feelings and emotional responses.  Feelings make it harder for us to control ourselves. We get an urge to either shut down or attack.
 

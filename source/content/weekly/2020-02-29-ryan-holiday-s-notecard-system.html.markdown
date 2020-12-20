@@ -31,6 +31,6 @@ However, you don't need to write in order to get benefits from the system. Here 
 * Waiting for a few weeks before coming back to a book introduces some automatic pre-editing when it comes to your notetaking. Some of the underlines or marginalia that seemed really important at the moment don't actually seem that relevant anymore after some time has passed.
 * It's often not enough to make a note on a page in order to remember an important idea or concept later if it's something you can't make part of your everyday life immediately. Compiling knowledge into [a commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), whether it's in a form of index cards, electronic notes, or an actual book, is an age-old practice that's worth trying out.
 
-### Additional notes
+## Additional notes
 
 You can find Ryan Holiday's more in-depth description of his system here: [The Notecard System: The Key For Remembering, Organizing And Using Everything You Read](https://ryanholiday.net/the-notecard-system-the-key-for-remembering-organizing-and-using-everything-you-read/)

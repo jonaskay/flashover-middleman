@@ -12,19 +12,19 @@ A year ago, I went from no blog and zero writing to blogging every week here on 
 
 Here are the three things I've gained from writing every week for a year. As a bonus, I've included a list of my most popular posts so far.
 
-### I became more curious
+## I became more curious
 
 Before I started writing my very first post, I had prepared a short list of post ideas for the first few weeks. After I had thrown out the half-baked ideas and turned the other ideas into actual posts, I found myself struggling to figure out what I should write about next.
 
 This forced me to learn how to seek out interesting perspectives and ideas worth writing about. I had to pay more attention to the stories people were telling me or others. I started to think more about the why: Why did I react that way? Why do we keep struggling with this issue? Why do we do it like this and not like that?
 
-### I learned how to think
+## I learned how to think
 
 Persuasive writing requires organized thinking. To practice writing is to practice reasoning as well as communication. I've learned that many ideas sound better in my head than on paper. I have had to abandon thoughts that didn't actually go anywhere once I started writing them down. But I have also seen some thoughts take an even more sophisticated form once I opened my laptop and started typing away.
 
 I feel that my one year younger self was much more disorganized with his thoughts than he ever realized.
 
-### I started to like writing
+## I started to like writing
 
 School taught me to avoid writing as much as possible. Compared to subjects like math and history, writing was especially strenuous work that didn't pay off in good grades no matter how much effort I put into it. If you can get an A from something else with much less effort, why should you bother with writing?
 
@@ -34,7 +34,7 @@ But once I got to the rhythm of writing every week, those anxieties began to see
 
 I finally consider it enjoyable to sit down with a cup of coffee on a weekend morning and start drafting a post.
 
-### Final notes
+## Final notes
 
 I'm deeply grateful for the people who read this blog and who have shared my posts during this past year. Here are the most read posts (in case you missed any of them):
 
