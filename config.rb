@@ -7,7 +7,7 @@ set :markdown, strikethrough: true
 
 activate :livereload
 activate :blog do |blog|
-  blog.layout = 'article_layout'
+  blog.layout = 'weekly_layout'
   blog.paginate = true
   blog.permalink = 'posts/{title}.html'
   blog.sources = 'content/weekly/{title}.html'
