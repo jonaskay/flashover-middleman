@@ -1,4 +1,4 @@
-<article class="article">
+<article class="article <%= locals.key?(:theme) && locals[:theme] %>">
   <header class="article-header relative mb-8">
     <h1 class="max-w-xs mx-auto text-center leading-tight pb-3 text-2xl sm:text-3xl">
       <% link_to article, class: 'no-underline text-black hover:text-blue-dark' do %>
