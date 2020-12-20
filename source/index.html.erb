@@ -1,27 +1,27 @@
 ---
 title: Home
-pageable: true
-per_page: 5
 ---
 
-<% if paginate && num_pages > 1 && prev_page %>
-  <div class="text-grey-darker mb-8 relative">
-    <%= partial 'pagination' %>
+<main class="w-full">
+  <div class="my-6 text-center leading-tight">
+    <div class="text-xl mb-4">
+      <%= config[:site_description] %>
+    </div>
+    <div class="text-grey-darker">
+      By
+      <%= link_to 'Joonas Kykkänen', 'https://jonas.kay.pink/', class: 'no-underline' %>
+    </div>
   </div>
-<% end %>
-
-<div class="article-list">
-  <% page_articles.each.with_index do |article, i| %>
-    <%= partial 'article', locals: { article: article } %>
-  <% end %>
-</div>
-
-<% if paginate && num_pages > 1 %>
-  <div class="text-grey-darker pb-4 my-8 relative">
-    <%= partial 'pagination' %>
+  <div class="md:flex md:flex-wrap justify-center -mx-4 mb-8 p-4">
+    <% blog('blog').articles.each do |article| %>
+      <%= partial 'card', locals: { url: article.url, image: article.data[:image], title: article.title, body: article.data[:description] } %>
+    <% end %>
+    <%= partial 'card', locals: { url: '/weekly-blog', image: 'weekly.jpg', title: 'Weekly blog (2018-2020)', body: 'I wrote a post every week for 2 years. You can find those posts here.' } %>
+    <div class="md:w-1/2 max-w-xs mx-auto md:mx-4 my-8 ">
+      <div class="bg-grey-lighter p-4 mb-6 rounded shadow">
+        <%= partial 'form' %>
+      </div>
+    </div>
   </div>
-<% end %>
 
-<div class="bg-grey-lighter p-4 mb-6 rounded shadow">
-  <%= partial 'form' %>
-</div>
+</main>

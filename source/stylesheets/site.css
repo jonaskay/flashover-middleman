@@ -210,6 +210,15 @@ twitterwidget {
   max-width: 35rem;
 }
 
+.mb-16 {
+  margin-bottom: 4rem;
+}
+
+.greyscale {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
 @media (min-width: 1200px) {
   .xl\:max-w-xxs {
     max-width: 16rem;
