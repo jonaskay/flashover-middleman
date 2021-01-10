@@ -1,18 +1,17 @@
-# Flashover
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f7e5f080-bc10-4101-9e03-a022684787cf/deploy-status)](https://app.netlify.com/sites/flashover/deploys)
+> I no longer use this project to power [Flashover](https://www.flashover.blog/). You can find the blog's current source code [here](https://github.com/jonaskay/flashover-gatsby).
 
-## About
+# flashover-middleman
 
-This is my personal blog built with [Middleman](https://middlemanapp.com/). You can read it at <http://www.flashover.blog>.
+This project is the first version of my [Flashover](https://www.flashover.blog/) blog. It is built using [Middleman](https://middlemanapp.com/) and [gulp.js](https://gulpjs.com/).
 
 ## Getting Started
 
 ### Requirements
 
-* [Ruby](https://www.ruby-lang.org/en/)
-* [Bundler](http://bundler.io/)
-* [Node.js](https://nodejs.org/en/)
-* [Yarn](https://yarnpkg.com/lang/en/)
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Bundler](http://bundler.io/)
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/lang/en/)
 
 ### Installation
 
@@ -37,7 +36,3 @@ To start the development server, run
 To build the site, run
 
     $ bundle exec middleman build
-
-## Deployment
-
-The production site is built after each push to `master`. The staging site is built after pushing to branch `staging`.
